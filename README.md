@@ -23,16 +23,18 @@
 
 |               	| Régressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
-| constante 	|  -336.765           	| 1738.647513                     	|
-| IVS _INF  	|683.53           	| -3467.3                      	|
+| constante 	|        	|                   	|
+| IVS _INF  	|       	|                     	|
 | IVS_CPH
-IVS_REN    	|                   	|                             	|
+|IVS_REN    	|                   	|                             	|
+|DENS_HAB  	|                   	|                             	|
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTg3MjE0MywtMTE2NzgyMDI4MSwxND
-A5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0
-MDA4MF19
+eyJoaXN0b3J5IjpbMjUwNzU1MDgwLC0xMTY3ODIwMjgxLDE0MD
+k5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQw
+MDgwXX0=
 -->
