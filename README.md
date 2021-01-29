@@ -28,13 +28,14 @@
 | IVS_CPH
 |IVS_REN    	|                   	|                             	|
 |DENS_HAB  	|                   	|                             	|
+|LANBDA 	|                   	|                             	|
 
-
-
+**Regressão Spatial Error:   Autocorrelação dos Resíduos**
+Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzU1MDgwLC0xMTY3ODIwMjgxLDE0MD
-k5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQw
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwxND
+A5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0
+MDA4MF19
 -->
