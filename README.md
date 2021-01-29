@@ -34,8 +34,16 @@
 Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 
+|               	| Régressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Error"  	
+|---------------	|-------------------	|-----------------------------	|-----------------------------	|
+| constante 	|        	|                   	|
+| IVS _INF  	|       	|                     	|
+| IVS_CPH
+|IVS_REN    	|                   	|                             	|
+|DENS_HAB  	|                   	|                             	|
+|LANBDA 	|                   	|                             	|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwxND
-A5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0
-MDA4MF19
+eyJoaXN0b3J5IjpbOTc3MzQ0MTYyLC0xNTQ4NjgxODEsLTExNj
+c4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0
+MTgsLTE0NjM4NDAwODBdfQ==
 -->
