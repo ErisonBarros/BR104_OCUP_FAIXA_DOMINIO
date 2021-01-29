@@ -21,75 +21,75 @@ Você pode renomear o arquivo atual clicando no nome do arquivo na barra de nave
 
 ## Excluir um arquivo
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Você pode excluir o arquivo atual clicando no botão ** Remover ** no explorador de arquivos. O arquivo será movido para o ** Lixo ** macarrão e automaticamente excluído 7 dias de inatividade.
 
-## Export a file
+## Exportar um arquivo
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+Você pode exportar o arquivo atual clicando em ** Exportar para disco ** no menu. Você pode escolher exportar o arquivo como Markdown simples, como HTML usando um modelo de barras de guia ou como um PDF.
 
 
-# Publication
+# Sincronização
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+A sincronização é um dos maiores recursos do StackEdit. Ele permite sincronizar qualquer arquivo no seu espaço de trabalho com outros arquivos armazenados em seu ** Google Drive ** , seu ** Dropbox ** e seu ** GitHub ** contas. Isso permite que você continue criando em outros dispositivos, colabore com as pessoas com quem você compartilha o arquivo, integre-se facilmente ao seu fluxo de trabalho ... O mecanismo de sincronização ocorre a cada minuto em segundo plano, baixando, mesclando e carregando modificações de arquivo.
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+Existem dois tipos de sincronização e podem se complementar:
 
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+- A sincronização do espaço de trabalho irá sincronizar todos os seus arquivos, massas e automaticamente. Isso permitirá que você busque seu espaço de trabalho em qualquer outro dispositivo. > Para começar a sincronizar seu espaço de trabalho, basta fazer login com o Google no menu. - A sincronização de arquivos manterá um arquivo do espaço de trabalho sincronizado com um ou vários arquivos no ** Google Drive ** , ** Dropbox ** ou ** GitHub ** . > Antes de Começar a sincronizar Arquivos, Rápido rápido Você DEVE vincular Uma Conta nenhum submenu ** Sincronizar ** .
 
 
-# Markdown extensions
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+
+## Abra um arquivo
+
+Você pode abrir um arquivo a partir do ** Google Drive ** , ** Dropbox ** ou ** GitHub ** abrindo o submenu ** Sincronizar ** e clicar ** Aberto de ** . Depois de aberto na área de trabalho, qualquer modificação no arquivo será sincronizada automaticamente.
+
+## Salvar um arquivo
+
+Você pode salvar qualquer arquivo do espaço de trabalho para ** Google Drive ** , ** Dropbox ** ou ** GitHub ** abrindo o submenu ** Sincronizar ** e clicar ** Economize em ** . Mesmo se um arquivo na área de trabalho já estiver sincronizado, você pode salvá-lo em outro local. StackEdit pode sincronizar um arquivo com vários locais e contas.
+
+## Sincronizar um arquivo
+
+Uma vez que seu arquivo está vinculado a um sincronizado local, StackEdit irá sincronizá-lo periodicamente baixando / carregando qualquer modificação. Uma fusão será realizada se necessário e os conflitos serão resolvidos.
+
+Se você acabou de modificar seu arquivo e deseja forçar uma sincronização, clique no botão ** Sincronizar agora ** na barra de navegação.
+
+> ** Nota: ** O botão ** Sincronizar agora ** será desabilitado se você não tiver nenhum arquivo para sincronizar. 
+
+## Gerenciar sincronização de arquivos
+
+Uma vez Que hum Arquivo PODE Ser sincronizado com Vários LOCAIS, rápido Você PODE listar e gerenciar OS LOCAIS sincronizadas Clicando ** Submenu Sincronização de arquivos ** não ** Sincronizar ** . Isso permite que você liste e remova os locais sincronizados que estão vinculados ao seu arquivo.
+
+
+# Publicação
+
+Publicar no StackEdit torna simples para você publicar seus arquivos online. Quando estiver satisfeito com um arquivo, você pode publicá-lo em diferentes plataformas de hospedagem, como ** Blogger ** , ** Dropbox ** , ** Gist ** , ** GitHub ** , ** Google Drive ** , *                 * WordPress ** e ** Zendesk **. Com [modelos de barras de guia] ( http://handlebarsjs.com/) , você tem controle total sobre o que exporta.
+
+> Antes de Começar um PUBLICAR, rápido Você DEVE vincular Uma Conta nenhum submenu ** A Publicar ** .
+
+## Publicar um arquivo
+
+Você pode publicar seu arquivo abrindo o submenu ** Publicar ** e clicar ** Publicar ** . Para alguns locais, você pode escolher entre os seguintes formatos:
+
+- Markdown: publique o texto do Markdown em um site que pode interpretá-lo ( ** GitHub ** por exemplo), - HTML: publique o arquivo convertido em HTML por meio de um template Handlebars (em um blog, por exemplo).
+
+
+## Atualizar uma publicação
+
+Após a publicação, StackEdit mantém seu arquivo vinculado a essa publicação, o que torna mais fácil para você publicá-lo novamente. Depois de modificar seu arquivo e desejar atualizar sua publicação, clique no botão ** Publicar agora ** na barra de navegação.
+
+> ** Nota: ** O botão ** Publicar agora ** está desabilitado se o seu arquivo ainda não foi publicado. 
+
+## Gerenciar publicar de arquivo
+
+Uma vez que um arquivo pode ser publicado em vários locais, você pode listar e gerenciar publicar locais clicando ** publicar Arquivo ** no ** Publicar ** submenu. Isso permite que você liste e remova os locais de publicação vinculados ao seu arquivo.
+
+
+# Extensões de Markdown
+
+StackEdit estende uma sintaxe Markdown padrão, adicionando adicional ** incorporando ** , proporcionando-lhe algumas características interessantes.
+
+> ** Protip: ** Você pode desativar qualquer ** extensão Markdown ** no ** As propriedades do arquivo ** diálogo. 
 
 
 ## SmartyPants
@@ -142,5 +142,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5ODAxODgxXX0=
+eyJoaXN0b3J5IjpbMzQ5MzkzNjE5XX0=
 -->
