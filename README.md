@@ -1,6 +1,7 @@
 # Análise Exploratória dos Dados
 ## Tratamento dos Dados 
-Pré-Processamento dos da
+[Pré-Processamento dos dados](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/Profiling_BR104_An%C3%A1lise_Explorat%C3%B3ria.ipynb) 
+
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
@@ -84,9 +85,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MjgxMDA2LC0xNTA4NzI3NzA5LDE3OD
-k4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0MjIxNSwtMjA2Njcw
-MjU5MSwtMTU0ODY4MTgxLC0xMTY3ODIwMjgxLDE0MDk5ODcwMD
-AsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
-
+eyJoaXN0b3J5IjpbLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMT
+c4OTgxMTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2
+NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4Nz
+AwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBd
+fQ==
 -->
