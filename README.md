@@ -36,14 +36,25 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 |               	| Régressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Error"  	
 |---------------	|-------------------	|-----------------------------	|-----------------------------	|
+| logLikelihood	|    XXXXX    	|        XXXXX           	|XXXXX
+| Akaike Info	|       XXX	|        XXXXX             	|     XXXXX
+| Criterion|                        XXXXXX     	|XXXXX
+
+
+
+**Comparação de coeficientes padronizados**
+
+|               	| Régressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Error"  	
+|---------------	|-------------------	|-----------------------------	|-----------------------------	|
 | constante 	|    XXXXX    	|        XXXXX           	|XXXXX
 | IVS _INF  	|       XXX	|        XXXXX             	|     XXXXX
 | IVS_CPH | XX|                        XXXXXX     	|XXXXX
 |IVS_REN    	|          XXXXX    	|         XXXXX                    	|XXXXXX
 |DENS_HAB  	|    XXXXX               	|       XXXXX                      	|XXXXX
 |LANBDA 	|        XXXXX           	|           XXXXX                  	| ZZZZZ
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE4Mzc0OCwtMTU0ODY4MTgxLC0xMT
+eyJoaXN0b3J5IjpbLTg4NTE1MDk0NSwtMTU0ODY4MTgxLC0xMT
 Y3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5
 NDE4LC0xNDYzODQwMDgwXX0=
 -->
