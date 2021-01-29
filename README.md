@@ -33,6 +33,7 @@
 **Regressão Spatial Error:   Autocorrelação dos Resíduos**
 Space > Univariate Local Moran’s I > ERRS_RESIDU
 
+### Regressão “Spatial Lag”
 
 |               	| Régressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Error"  	
 |---------------	|-------------------	|-----------------------------	|-----------------------------	|
@@ -40,7 +41,7 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 | Akaike Info	|       XXX	|        XXXXX             	|     XXXXX
 | Criterion|                        XXXXXX     	|XXXXX
 
-### Regressão “Spatial Lag”
+
 
 **Comparação de coeficientes padronizados**
 
@@ -53,8 +54,12 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 |DENS_HAB  	|    XXXXX               	|       XXXXX                      	|XXXXX
 |LANBDA 	|        XXXXX           	|           XXXXX                  	| ZZZZZ
 
+## Conclusões 
+
+ - [ ] A
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAwNTYzMzIsLTE1NDg2ODE4MSwtMT
+eyJoaXN0b3J5IjpbLTIxNDAyOTI1MTQsLTE1NDg2ODE4MSwtMT
 E2NzgyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0
 OTQxOCwtMTQ2Mzg0MDA4MF19
 -->
