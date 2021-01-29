@@ -1,7 +1,7 @@
-https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing
+
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
-
+[Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
 
 #Analise Exploratória dos Dados Espacial " GEODA"
 ### Localização das Ocupações 
@@ -82,8 +82,8 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMD
-MyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4
-MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MT
-gsLTE0NjM4NDAwODBdfQ==
+eyJoaXN0b3J5IjpbLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMT
+cwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4
+NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyOD
+A4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBdfQ==
 -->
