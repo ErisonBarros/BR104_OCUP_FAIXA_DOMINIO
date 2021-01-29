@@ -1,4 +1,6 @@
-
+# Análise Exploratória dos Dados
+## Tratamento dos Dados 
+Pré-Processamento dos da
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
@@ -82,8 +84,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMT
-cwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4
-NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyOD
-A4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBdfQ==
+eyJoaXN0b3J5IjpbNzc4MjgxMDA2LC0xNTA4NzI3NzA5LDE3OD
+k4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0MjIxNSwtMjA2Njcw
+MjU5MSwtMTU0ODY4MTgxLC0xMTY3ODIwMjgxLDE0MDk5ODcwMD
+AsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
+
 -->
