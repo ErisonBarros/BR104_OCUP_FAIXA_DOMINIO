@@ -3,6 +3,10 @@
 **Váriaveis Indeoendentes**:
 INS
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM4NDAwODBdfQ==
+eyJoaXN0b3J5IjpbLTExMjg1NzEyMDYsLTE0NjM4NDAwODBdfQ
+==
 -->
