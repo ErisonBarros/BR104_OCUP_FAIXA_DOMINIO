@@ -1,4 +1,14 @@
-#Analise Exploratória dos Dados no GEODA
+
+
+
+
+
+
+
+
+#Analise Exploratória dos Dados Espacial " GEODA"
+
+
 
 **Variável Dependente:** Ocupação Irregular em 2010
 **Váriaveis Indeoendentes**:
@@ -63,7 +73,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjIyODg2OSwtMTU0ODY4MTgxLC0xMT
+eyJoaXN0b3J5IjpbMTk5Mzg4NTQ4MiwtMTU0ODY4MTgxLC0xMT
 Y3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5
 NDE4LC0xNDYzODQwMDgwXX0=
 -->
