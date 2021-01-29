@@ -55,11 +55,15 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 |LANBDA 	|        XXXXX           	|           XXXXX                  	| ZZZZZ
 
 ## Conclusões 
+Verificações 
+ - [ ] List item
+ - [ ] List item
+ - [ ] List item
+ - [ ] List item
 
- - [ ] A
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAyOTI1MTQsLTE1NDg2ODE4MSwtMT
-E2NzgyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0
-OTQxOCwtMTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbLTQ4NjIyODg2OSwtMTU0ODY4MTgxLC0xMT
+Y3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5
+NDE4LC0xNDYzODQwMDgwXX0=
 -->
