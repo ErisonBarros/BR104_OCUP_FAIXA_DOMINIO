@@ -9,6 +9,8 @@
 ## Resultados do Modelo:
 
 [Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20da%20Regress%C3%A3o%20Classica.txt)
+Modelo Espacial Lag
+
 
 
 
@@ -16,6 +18,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3NTk4NjQsLTQ0Njc3MjgwOCwxNz
-Y3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
+eyJoaXN0b3J5IjpbMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3Nj
+cyNDk0MTgsLTE0NjM4NDAwODBdfQ==
 -->
