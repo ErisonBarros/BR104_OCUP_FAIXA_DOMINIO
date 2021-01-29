@@ -15,12 +15,11 @@
 
 |               	| Régressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
-| logLikelihood 	|  -336.765           	| -16243                      	|
-| Akaike Info   	|683.53           	| 35512                       	|
+| logLikelihood 	|  -336.765           	| 1738.647513                     	|
+| Akaike Info   	|683.53           	| -3467.3                      	|
 | Criterion     	|                   	|                             	|
 
-
-
+**Comparação de coeficientes padronizados**
 
 
 
@@ -28,7 +27,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNjkzMywtMTE2NzgyMDI4MSwxNDA5OT
-g3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0MDA4
-MF19
+eyJoaXN0b3J5IjpbMTQ2MzUxNTExLC0xMTY3ODIwMjgxLDE0MD
+k5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQw
+MDgwXX0=
 -->
