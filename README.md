@@ -9,7 +9,13 @@
 #Analise Exploratória dos Dados Espacial " GEODA"
 ### Localização das Ocupações 
 
-
+<img src="https://i.ibb.co/9vNYk7X/OCUP-BR104-DATASET-01.png" alt="OCUP-BR104-DATASET-01" border="0">
+<img src="https://i.ibb.co/HT6RBGv/OCUP-BR104-DATASET-01-01.png" alt="OCUP-BR104-DATASET-01-01" border="0">
+<img src="https://i.ibb.co/VJJvPJT/OCUP-BR104-DATASET-01-03.png" alt="OCUP-BR104-DATASET-01-03" border="0">
+<img src="https://i.ibb.co/NLF7bVs/OCUP-BR104-DATASET-01-3.png" alt="OCUP-BR104-DATASET-01-3" border="0">
+<img src="https://i.ibb.co/SX6sxnq/OCUP-BR104-DATASET-01.png" alt="OCUP-BR104-DATASET-01" border="0">
+<img src="https://i.ibb.co/v1L0tfc/OCUP-BR104-DATASET-01-Lisa-Scatter-Plot-Frame.png" alt="OCUP-BR104-DATASET-01-Lisa-Scatter-Plot-Frame" border="0">
+<img src="https://i.ibb.co/mhST6G8/OCUP-BR104-DATASET-013.png" alt="OCUP-BR104-DATASET-013" border="0">
 
 
 Resultados:
@@ -79,7 +85,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMT
-E2NzgyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0
-OTQxOCwtMTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMT
+U0ODY4MTgxLC0xMTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3
+MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
 -->
