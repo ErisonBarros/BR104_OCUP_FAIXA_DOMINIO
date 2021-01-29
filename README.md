@@ -21,13 +21,17 @@
 
 **Comparação de coeficientes padronizados**
 
-
+|               	| Régressão Simples 	| Regressão "Espacial Error"  	|
+|---------------	|-------------------	|-----------------------------	|
+| constante 	|  -336.765           	| 1738.647513                     	|
+| A_Rendapit   	|683.53           	| -3467.3                      	|
+| Criterion     	|                   	|                             	|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzUxNTExLC0xMTY3ODIwMjgxLDE0MD
-k5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xNDYzODQw
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTEzMDYwNTExODksLTExNjc4MjAyODEsMT
+QwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4
+NDAwODBdfQ==
 -->
