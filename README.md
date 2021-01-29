@@ -8,7 +8,7 @@
 
 ## Resultados do Modelo:
 
-Modelo Clássico:
+[Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20da%20Regress%C3%A3o%20Classica.txt)
 
 
 
@@ -16,6 +16,6 @@ Modelo Clássico:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0xND
-YzODQwMDgwXX0=
+eyJoaXN0b3J5IjpbLTE2OTc3NTk4NjQsLTQ0Njc3MjgwOCwxNz
+Y3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
 -->
