@@ -24,14 +24,15 @@
 |               	| Régressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
 | constante 	|  -336.765           	| 1738.647513                     	|
-| A_Rendapit   	|683.53           	| -3467.3                      	|
-| Criterion     	|                   	|                             	|
+| IVS _INF  	|683.53           	| -3467.3                      	|
+| IVS_CPH
+IVS_REN    	|                   	|                             	|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYwNTExODksLTExNjc4MjAyODEsMT
-QwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4
-NDAwODBdfQ==
+eyJoaXN0b3J5IjpbMTkyNTg3MjE0MywtMTE2NzgyMDI4MSwxND
+A5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0
+MDA4MF19
 -->
