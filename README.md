@@ -6,6 +6,7 @@
 
 ## **Interpretação do IVS**
 
+<img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
 
 
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
@@ -89,9 +90,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MjY1MjIwLC0xNDQzMzUxNzI4LC0xNT
-A4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0
-MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0xMTY3ODIwMj
-gxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0x
-NDYzODQwMDgwXX0=
+eyJoaXN0b3J5IjpbLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMT
+UwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMzIx
+NDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2NzgyMD
+I4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwt
+MTQ2Mzg0MDA4MF19
 -->
