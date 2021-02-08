@@ -4,6 +4,10 @@
 
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
+## **Interpretação do IVS**
+
+
+
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
 
 #Analise Exploratória dos Dados Espacial " GEODA"
@@ -85,9 +89,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMT
-c4OTgxMTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2
-NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4Nz
-AwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBd
-fQ==
+eyJoaXN0b3J5IjpbMjI3MjY1MjIwLC0xNDQzMzUxNzI4LC0xNT
+A4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0
+MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0xMTY3ODIwMj
+gxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3MjQ5NDE4LC0x
+NDYzODQwMDgwXX0=
 -->
