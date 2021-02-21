@@ -9,6 +9,7 @@ A análise do comportamento das  ocupações irregulares sobre a BR-104 , levand
 	
 # <font color='Green'> Metodologia </font>
 
+Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibilizado por município  
 
 .
 	 
@@ -16,6 +17,6 @@ A análise do comportamento das  ocupações irregulares sobre a BR-104 , levand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzU3OTQ1MCwxMTMxNTU5NTAxLC0yMT
-IxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbODAyMDQxMzczLDExMzE1NTk1MDEsLTIxMj
+EyOTA3OTJdfQ==
 -->
