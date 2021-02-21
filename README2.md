@@ -6,7 +6,8 @@ A análise do comportamento das  ocupações irregulares sobre a BR-104 , levand
 	Para isso utilizaremos as técnicas de modelagem de Modelagem Espaço-temporal.
 	Os eventos de ocupações irregulares sobre a faixa de domínio de rodovia influenciam substancialmente na segurança da via , na expansão urbana. Para lidar com as ocupações cada vez mais disseminadas, precisamos de estimativas precisas das chances de ocorrência de ocupações em  regiões  heterogêneas.
 	As estimativas de risco de ocupações  são fundamentais para prevenir e combater estas ocupações. Para tanto, desenvolvemos um modelo de probabilidade anual para as ocupações  irregulares sobre a via com base na relação histórica entre  o uso/ocupação do solo, Evolução do índice de vulnerabilidade social, assim como o valor da terra nua podem ajudar a entender este fenômeno. 
-
+	
+# <font color='Green'> Metodologia </font>
 
 
 .
@@ -15,6 +16,6 @@ A análise do comportamento das  ocupações irregulares sobre a BR-104 , levand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODIwOTkxNywxMTMxNTU5NTAxLC0yMT
+eyJoaXN0b3J5IjpbMTQ3NzU3OTQ1MCwxMTMxNTU5NTAxLC0yMT
 IxMjkwNzkyXX0=
 -->
