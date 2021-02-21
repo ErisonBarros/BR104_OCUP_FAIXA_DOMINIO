@@ -9,7 +9,7 @@ A análise do comportamento das  ocupações irregulares sobre a BR-104 , levand
 	
 # <font color='Green'> Metodologia </font>
 
-Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibilizado por município, disponível e  dados geoespaciais vetoriais rasterisamos  
+Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibilizado por município, disponível e  dados geoespaciais vetoriais rasterisamos e normalizamos os pixeis baseado nesta tabela abaixo.  
 
 .
 	 
@@ -17,6 +17,6 @@ Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDE5MzQ5OCwxMTMxNTU5NTAxLC0yMT
+eyJoaXN0b3J5IjpbMTY0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMT
 IxMjkwNzkyXX0=
 -->
