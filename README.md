@@ -40,7 +40,7 @@ Resultados:
 
 **COMPARAÇÃO DE RESULTADOS**
 
-|               	| Régressão Simples 	| Regressão "Espacial Error"  	|
+|               	| Regressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
 | logLikelihood 	|  -336.765           	| 1738.647513                     	|
 | Akaike Info   	|683.53           	| -3467.3                      	|
@@ -90,9 +90,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMT
-UwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMzIx
-NDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2NzgyMD
-I4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwt
-MTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xND
+QzMzUxNzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0
+Mzg5NTUsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MT
+gxLC0xMTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwx
+NzY3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
 -->
