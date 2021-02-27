@@ -1,4 +1,6 @@
 # Análise Exploratória dos Dados
+
+Realizamos uma analise exploaratória dos dados da ocorrencia de ocupações irregularess sobre a faixa de domínio da BR-10
 ## Tratamento dos Dados 
 [Pré-Processamento dos dados](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/Profiling_BR104_An%C3%A1lise_Explorat%C3%B3ria.ipynb) 
 
@@ -25,10 +27,8 @@
 
 Resultados:
 
-
-
 **Variável Dependente:** Ocupação Irregular em 2010
-**Váriaveis Indeoendentes**:
+**Váriaveis Independentes**:
 
 <img src="https://i.ibb.co/bRZNfFw/Escolhas-das-Variaveis.jpg" alt="Escolhas-das-Variaveis" border="0">
 
@@ -90,9 +90,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xND
-QzMzUxNzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0
-Mzg5NTUsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MT
-gxLC0xMTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwx
-NzY3MjQ5NDE4LC0xNDYzODQwMDgwXX0=
+eyJoaXN0b3J5IjpbMTYwNTc3MTQ0LDIxMzA4ODk4NTEsLTcwOT
+YyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOSwxNzg5ODEx
+OTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMTUsLTIwNjY3MDI1OT
+EsLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwxNDA5OTg3MDAwLC00
+NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0MDA4MF19
 -->
