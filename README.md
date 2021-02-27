@@ -1,6 +1,8 @@
 # Análise Exploratória dos Dados
 
-Realizamos uma analise exploaratória dos dados da ocorrencia de ocupações irregularess sobre a faixa de domínio da BR-10
+Realizamos uma analise exploratória dos dados da ocorrencia de ocupações irregulares sobre a faixa de domínio da BR-104. Usando os dados os dados IVS de 
+2010 e associado a valor de terra nua disponibilizados pelo INCRA.
+
 ## Tratamento dos Dados 
 [Pré-Processamento dos dados](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/Profiling_BR104_An%C3%A1lise_Explorat%C3%B3ria.ipynb) 
 
@@ -90,9 +92,9 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTc3MTQ0LDIxMzA4ODk4NTEsLTcwOT
-YyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOSwxNzg5ODEx
-OTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMTUsLTIwNjY3MDI1OT
-EsLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwxNDA5OTg3MDAwLC00
-NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbMTYyNjIyMDY4OSwyMTMwODg5ODUxLC03MD
+k2Mjk0NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgx
+MTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNT
+kxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwt
+NDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBdfQ==
 -->
