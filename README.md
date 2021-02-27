@@ -1,6 +1,6 @@
 # Análise Exploratória dos Dados
 
-Realizamos uma analise exploratória dos dados da ocorrencia de ocupações irregulares sobre a faixa de domínio da BR-104. Usando os dados os dados IVS de 
+Realizamos uma analise exploratória dos dados da ocorrência de ocupações irregulares sobre a faixa de domínio da BR-104. Usando os dados os dados IVS de 
 2010 e associado a valor de terra nua disponibilizados pelo INCRA.
 
 ## Tratamento dos Dados 
@@ -92,7 +92,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjIyMDY4OSwyMTMwODg5ODUxLC03MD
+eyJoaXN0b3J5IjpbMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03MD
 k2Mjk0NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgx
 MTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNT
 kxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwt
