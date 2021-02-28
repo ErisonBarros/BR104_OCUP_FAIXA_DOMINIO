@@ -6,9 +6,9 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 ## Tratamento dos Dados 
 [Pré-Processamento dos dados](https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
 
-<img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o" width="640" height="480"></iframe>
 
 ## **Interpretação do IVS**
 
@@ -94,10 +94,10 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMDY4MzM3LDE1NTQzODYzMTgsMTE0Mj
-Q3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3
-MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NS
-wxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTEx
-Njc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyND
-k0MTgsLTE0NjM4NDAwODBdfQ==
+eyJoaXN0b3J5IjpbMTgwNzMyOTMwNiwxNTU0Mzg2MzE4LDExND
+I0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUx
+NzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NT
+UsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0x
+MTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3Mj
+Q5NDE4LC0xNDYzODQwMDgwXX0=
 -->
