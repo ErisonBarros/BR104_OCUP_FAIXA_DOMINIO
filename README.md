@@ -6,16 +6,13 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 ## Tratamento dos Dados 
 [Pré-Processamento dos dados](https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
 
-
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o" width="640" height="480"></iframe>
+
+[Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
 
 ## **Interpretação do IVS**
 
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
-
-
-[Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
 
 #Analise Exploratória dos Dados Espacial " GEODA"
 ### Localização das Ocupações 
@@ -94,7 +91,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzMyOTMwNiwxNTU0Mzg2MzE4LDExND
+eyJoaXN0b3J5IjpbMjA5NDQyNzQ5MiwxNTU0Mzg2MzE4LDExND
 I0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUx
 NzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NT
 UsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0x
