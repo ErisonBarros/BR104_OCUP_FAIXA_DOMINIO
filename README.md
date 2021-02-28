@@ -4,7 +4,7 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 2010 e associado a valor de terra nua disponibilizados pelo INCRA, para verificar o comportamento do fenômeno.
 
 ## Tratamento dos Dados 
-[Pré-Processamento dos dados](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/Profiling_BR104_An%C3%A1lise_Explorat%C3%B3ria.ipynb) 
+[Pré-Processamento dos dados](https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
 
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 
@@ -92,10 +92,10 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIxMz
-A4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcy
-NzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMT
-UsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwx
-NDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mz
-g0MDA4MF19
+eyJoaXN0b3J5IjpbLTY3NzUxODk2MywxNTU0Mzg2MzE4LDExND
+I0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUx
+NzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NT
+UsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0x
+MTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3Mj
+Q5NDE4LC0xNDYzODQwMDgwXX0=
 -->
