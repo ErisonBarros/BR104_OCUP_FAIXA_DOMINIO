@@ -29,7 +29,7 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 Resultados:
 
 **Variável Dependente:** Ocupação Irregular em 2010
-**Váriaveis Independentes**:
+**Variáveis Independentes**:
 
 <img src="https://i.ibb.co/bRZNfFw/Escolhas-das-Variaveis.jpg" alt="Escolhas-das-Variaveis" border="0">
 
@@ -91,10 +91,10 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQyNzQ5MiwxNTU0Mzg2MzE4LDExND
-I0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUx
-NzI4LC0xNTA4NzI3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NT
-UsMTAzMjE0MjIxNSwtMjA2NjcwMjU5MSwtMTU0ODY4MTgxLC0x
-MTY3ODIwMjgxLDE0MDk5ODcwMDAsLTQ0Njc3MjgwOCwxNzY3Mj
-Q5NDE4LC0xNDYzODQwMDgwXX0=
+eyJoaXN0b3J5IjpbLTIxMjQ0ODE0MzYsMTU1NDM4NjMxOCwxMT
+QyNDcwMTAyLDIxMzA4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1
+MTcyOCwtMTUwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OT
+U1LDEwMzIxNDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwt
+MTE2NzgyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2Nz
+I0OTQxOCwtMTQ2Mzg0MDA4MF19
 -->
