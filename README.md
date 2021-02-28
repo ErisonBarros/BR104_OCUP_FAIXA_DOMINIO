@@ -25,7 +25,9 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 <img src="https://i.ibb.co/v1L0tfc/OCUP-BR104-DATASET-01-Lisa-Scatter-Plot-Frame.png" alt="OCUP-BR104-DATASET-01-Lisa-Scatter-Plot-Frame" border="0">
 <img src="https://i.ibb.co/mhST6G8/OCUP-BR104-DATASET-013.png" alt="OCUP-BR104-DATASET-013" border="0">
 
+## Analise de Correlação entre as variáveis 
 
+# Pré- Processamento no GEODA
 Resultados:
 
 **Variável Dependente:** Ocupação Irregular em 2010
@@ -91,10 +93,10 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ0ODE0MzYsMTU1NDM4NjMxOCwxMT
-QyNDcwMTAyLDIxMzA4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1
-MTcyOCwtMTUwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OT
-U1LDEwMzIxNDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwt
-MTE2NzgyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2Nz
-I0OTQxOCwtMTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0Mj
+Q3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3
+MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NS
+wxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTEx
+Njc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyND
+k0MTgsLTE0NjM4NDAwODBdfQ==
 -->
