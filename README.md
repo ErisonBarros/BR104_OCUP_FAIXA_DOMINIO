@@ -31,30 +31,6 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 https://i.ibb.co/wN0T2jM/correla-o.jpg
 
 # Análise de Regressão Logística no Studio
-Call:
-glm(formula = ocup_2010 ~ IVS_REN_10 + Dens_hab + IVS_INF_10 + 
-    VTN_MED, family = binomial(link = "logit"), data = dados_1)
-
-Deviance Residuals: 
-    Min       1Q   Median       3Q      Max  
--2.0195  -0.9879   0.2994   0.8543   1.3876  
-
-Coefficients:
-              Estimate Std. Error z value Pr(>|z|)    
-(Intercept) -1.141e+01  1.208e+00  -9.446  < 2e-16 ***
-IVS_REN_10   2.571e+01  2.505e+00  10.263  < 2e-16 ***
-Dens_hab     1.199e+02  1.341e+01   8.946  < 2e-16 ***
-IVS_INF_10  -1.246e+01  4.223e+00  -2.950 0.003177 ** 
-VTN_MED      6.001e-04  1.702e-04   3.526 0.000423 ***
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-(Dispersion parameter for binomial family taken to be 1)
-
-    Null deviance: 1542.7  on 1216  degrees of freedom
-Residual deviance: 1145.9  on 1212  degrees of freedom
-  (28 observations deleted due to missingness)
-AIC: 1155.9
 
 
 
@@ -125,11 +101,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY5NjIyNCwtMTE1NTgyNzg2MSwtMT
-E4MzM1NTcyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcw
-MTAyLDIxMzA4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOC
-wtMTUwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEw
-MzIxNDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2Nz
-gyMDI4MSwxNDA5OTg3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQx
-OCwtMTQ2Mzg0MDA4MF19
+eyJoaXN0b3J5IjpbLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLT
+ExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3
+MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mj
+gsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NSwx
+MDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNj
+c4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0
+MTgsLTE0NjM4NDAwODBdfQ==
 -->
