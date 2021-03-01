@@ -30,6 +30,9 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 <img src="https://i.ibb.co/wN0T2jM/correla-o.jpg" alt="correla-o" border="0">
 https://i.ibb.co/wN0T2jM/correla-o.jpg
 
+### Estatísticas Descritivas da variável
+
+
 Pelo comportamento do fenômeno, usamos a regressão logística para verificarmos o comportamento das variaveis: 
 
 # Análise de Regressão Logística no Studio
@@ -103,11 +106,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLT
-ExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQz
-ODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0ND
-EsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywt
-MTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNT
-Q4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2Nzcy
-ODA4LDE3NjcyNDk0MThdfQ==
+eyJoaXN0b3J5IjpbLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLT
+E4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkz
+Njk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5OD
+UxLC03MDk2Mjk0NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDks
+MTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMD
+Y2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4
+NzAwMCwtNDQ2NzcyODA4XX0=
 -->
