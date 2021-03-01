@@ -48,14 +48,13 @@ Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regr
 
 <img src="https://i.ibb.co/bdGMSgJ/resultado-logistica.jpg" alt="resultado-logistica" border="0">
 
+<img src="https://i.ibb.co/Prqj6DM/resultados-regress-o-logistica2.jpg" alt="resultados-regress-o-logistica2" border="0">
 
 # Pré- Processamento no GEODA
 Resultados:
-
-**Variável Dependente:** Ocupação Irregular em 2010
-**Variáveis Independentes**:
-
 <img src="https://i.ibb.co/bRZNfFw/Escolhas-das-Variaveis.jpg" alt="Escolhas-das-Variaveis" border="0">
+
+
 
 ## Resultados do Modelo:
 
@@ -115,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNT
-M3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUy
-MjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4OTM2OTY1OD
-YsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIxMzA4ODk4NTEsLTcw
-OTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOSwxNzg5OD
-ExOTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMTUsLTIwNjY3MDI1
-OTEsLTE1NDg2ODE4MV19
+eyJoaXN0b3J5IjpbLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0ND
+A5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1
+ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1Nz
+IwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDExNDI0NzAxMDIsMjEz
+MDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUxNzI4LC0xNTA4Nz
+I3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0MjIx
+NSwtMjA2NjcwMjU5MV19
 -->
