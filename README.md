@@ -41,9 +41,9 @@ https://i.ibb.co/wN0T2jM/correla-o.jpg
 |           	| 3rd Qu.:1.0000 	| 3rd Qu.:0.5210 	| 3rd Qu.:0.0097318 	| 3rd Qu.:0.2090 	| 3rd Qu.:314912 	| 3rd Qu.:1.000 	| 3rd Qu.:5105 	|
 |           	| Max.   :1.0000 	| Max.   :0.6370 	| Max.   :0.0188397 	| Max.   :0.3810 	| Max.   :314912 	| Max.   :1.000 	| Max.   :8363 	|
 ```
-Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regressão logística para verificarmos o comportamento das variaveis: 
+Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regressão logística para verificarmos o comportamento das variaveis.
 
-# Análise de Regressão Logística no Studio
+# Análise de Regressão Logística
 
 
 
@@ -114,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQyMjQ2NDQsLTE2MDA2NDU3MTIsLT
-E3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTEx
-ODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MD
-EwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mjgs
-LTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMD
-MyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4
-MjAyODEsMTQwOTk4NzAwMF19
+eyJoaXN0b3J5IjpbLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMT
+cwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4
+MzM1NTcyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMT
+AyLDIxMzA4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwt
+MTUwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMz
+IxNDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2Nzgy
+MDI4MSwxNDA5OTg3MDAwXX0=
 -->
