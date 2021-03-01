@@ -45,7 +45,7 @@ Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regr
 
 # Análise de Regressão Logística
 
-
+<img src="https://i.ibb.co/bdGMSgJ/resultado-logistica.jpg" alt="resultado-logistica" border="0">
 
 
 # Pré- Processamento no GEODA
@@ -114,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMT
-cwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4
-MzM1NTcyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMT
-AyLDIxMzA4ODk4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwt
-MTUwODcyNzcwOSwxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMz
-IxNDIyMTUsLTIwNjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2Nzgy
-MDI4MSwxNDA5OTg3MDAwXX0=
+eyJoaXN0b3J5IjpbNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MD
+A2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4
+Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMT
+gsMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0
+NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNz
+QzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4Njgx
+ODEsLTExNjc4MjAyODFdfQ==
 -->
