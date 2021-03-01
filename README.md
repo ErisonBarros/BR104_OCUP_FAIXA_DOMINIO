@@ -44,6 +44,7 @@ https://i.ibb.co/wN0T2jM/correla-o.jpg
 Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regressão logística para verificarmos o comportamento das variaveis.
 
 # Análise de Regressão Logística
+<img src="https://i.ibb.co/4M4Z1M3/resultados-regress-o-logistica.jpg" alt="resultados-regress-o-logistica" border="0">
 
 <img src="https://i.ibb.co/bdGMSgJ/resultado-logistica.jpg" alt="resultado-logistica" border="0">
 
@@ -114,11 +115,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MD
-A2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4
-Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMT
-gsMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0
-NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNz
-QzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4Njgx
-ODEsLTExNjc4MjAyODFdfQ==
+eyJoaXN0b3J5IjpbMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNT
+M3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUy
+MjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4OTM2OTY1OD
+YsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIxMzA4ODk4NTEsLTcw
+OTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOSwxNzg5OD
+ExOTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMTUsLTIwNjY3MDI1
+OTEsLTE1NDg2ODE4MV19
 -->
