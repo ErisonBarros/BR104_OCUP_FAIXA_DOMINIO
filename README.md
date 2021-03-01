@@ -31,9 +31,17 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 https://i.ibb.co/wN0T2jM/correla-o.jpg
 
 ### Estatísticas Descritivas da variável
-
-
-Pelo comportamento do fenômeno, usamos a regressão logística para verificarmos o comportamento das variaveis: 
+```markdown
+| ocup_2010 	| IVS_REN_10     	| Dens_hab       	| IVS_INF_10        	| Pop_Total      	| URB_RURAL      	| VTN_MED       	|              	|
+|-----------	|----------------	|----------------	|-------------------	|----------------	|----------------	|---------------	|--------------	|
+|           	| Min.   :0.0000 	| Min.   :0.0000 	| Min.   :0.0000000 	| Min.   :0.0000 	| Min.   : 22679 	| Min.   :0.000 	| Min.   :2395 	|
+|           	| 1st Qu.:0.0000 	| 1st Qu.:0.3570 	| 1st Qu.:0.0003992 	| 1st Qu.:0.1050 	| 1st Qu.: 24903 	| 1st Qu.:0.000 	| 1st Qu.:5105 	|
+|           	| Median :1.0000 	| Median :0.3570 	| Median :0.0053653 	| Median :0.1050 	| Median :314912 	| Median :1.000 	| Median :5105 	|
+|           	| Mean   :0.6554 	| Mean   :0.4076 	| Mean   :0.0059538 	| Mean   :0.1428 	| Mean   :178470 	| Mean   :0.747 	| Mean   :4701 	|
+|           	| 3rd Qu.:1.0000 	| 3rd Qu.:0.5210 	| 3rd Qu.:0.0097318 	| 3rd Qu.:0.2090 	| 3rd Qu.:314912 	| 3rd Qu.:1.000 	| 3rd Qu.:5105 	|
+|           	| Max.   :1.0000 	| Max.   :0.6370 	| Max.   :0.0188397 	| Max.   :0.3810 	| Max.   :314912 	| Max.   :1.000 	| Max.   :8363 	|
+```
+Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regressão logística para verificarmos o comportamento das variaveis: 
 
 # Análise de Regressão Logística no Studio
 
@@ -106,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLT
-E4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkz
-Njk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5OD
-UxLC03MDk2Mjk0NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDks
-MTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMD
-Y2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4
-NzAwMCwtNDQ2NzcyODA4XX0=
+eyJoaXN0b3J5IjpbLTEzNjQyMjQ2NDQsLTE2MDA2NDU3MTIsLT
+E3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTEx
+ODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MD
+EwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mjgs
+LTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMD
+MyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4
+MjAyODEsMTQwOTk4NzAwMF19
 -->
