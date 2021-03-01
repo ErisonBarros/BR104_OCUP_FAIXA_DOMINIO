@@ -27,6 +27,7 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 ## Analise de Correlação entre as variáveis 
 
+https://i.ibb.co/wN0T2jM/correla-o.jpg
 
 # Pré- Processamento no GEODA
 Resultados:
@@ -94,10 +95,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NT
-QzODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0
-NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMy
-wtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0x
-NTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOTk4NzAwMCwtNDQ2Nz
-cyODA4LDE3NjcyNDk0MTgsLTE0NjM4NDAwODBdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg5MjUxMCwtMTE4MzM1NTcyMCw4OT
+M2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIxMzA4ODk4
+NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOS
+wxNzg5ODExOTAzLC0xNzA3NDM4OTU1LDEwMzIxNDIyMTUsLTIw
+NjY3MDI1OTEsLTE1NDg2ODE4MSwtMTE2NzgyMDI4MSwxNDA5OT
+g3MDAwLC00NDY3NzI4MDgsMTc2NzI0OTQxOCwtMTQ2Mzg0MDA4
+MF19
 -->
