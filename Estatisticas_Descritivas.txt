@@ -1,0 +1,49 @@
+Min.   :0.0000  
+1st Qu.:0.0000  
+Median :1.0000  
+Mean   :0.6554  
+3rd Qu.:1.0000  
+Max.   :1.0000  
+NA
+Min.   :0.357  
+1st Qu.:0.357  
+Median :0.357  
+Mean   :0.417  
+3rd Qu.:0.521  
+Max.   :0.637  
+NA's   :28  
+Min.   :0.000000  
+1st Qu.:0.000523  
+Median :0.005365  
+Mean   :0.006091  
+3rd Qu.:0.009732  
+Max.   :0.018840  
+NA's   :28  
+Min.   :0.1050  
+1st Qu.:0.1050  
+Median :0.1050  
+Mean   :0.1461  
+3rd Qu.:0.2090  
+Max.   :0.3810  
+NA's   :28  
+Min.   : 22679  
+1st Qu.: 24903  
+Median :314912  
+Mean   :178470  
+3rd Qu.:314912  
+Max.   :314912  
+NA
+Min.   :0.0000  
+1st Qu.:1.0000  
+Median :1.0000  
+Mean   :0.7642  
+3rd Qu.:1.0000  
+Max.   :1.0000  
+NA's   :28  
+Min.   :2395  
+1st Qu.:5105  
+Median :5105  
+Mean   :4701  
+3rd Qu.:5105  
+Max.   :8363  
+NA
