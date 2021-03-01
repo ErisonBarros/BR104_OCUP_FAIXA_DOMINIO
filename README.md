@@ -27,9 +27,13 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 ## Analise de Correlação entre as variáveis 
 
-
 <img src="https://i.ibb.co/wN0T2jM/correla-o.jpg" alt="correla-o" border="0">
 https://i.ibb.co/wN0T2jM/correla-o.jpg
+
+# Análise de Regressão Logística no Studio
+
+
+
 
 # Pré- Processamento no GEODA
 Resultados:
@@ -97,11 +101,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsOD
-kzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5
-ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3MjgsLTE1MDg3Mjc3MD
-ksMTc4OTgxMTkwMywtMTcwNzQzODk1NSwxMDMyMTQyMjE1LC0y
-MDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNjc4MjAyODEsMTQwOT
-k4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0MTgsLTE0NjM4NDAw
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLT
+ExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3
+MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mj
+gsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1NSwx
+MDMyMTQyMjE1LC0yMDY2NzAyNTkxLC0xNTQ4NjgxODEsLTExNj
+c4MjAyODEsMTQwOTk4NzAwMCwtNDQ2NzcyODA4LDE3NjcyNDk0
+MTgsLTE0NjM4NDAwODBdfQ==
 -->
