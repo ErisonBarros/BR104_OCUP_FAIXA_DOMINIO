@@ -67,6 +67,7 @@ Como salvamos os resíduos e valores previstos na tabela, podemos elaborar  mapa
 HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 <img src="https://i.ibb.co/tHsWkXw/Histograma-do-Residuo.png" alt="Histograma-do-Residuo" border="0">
 [Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20Spatal%20Lag.txt)
+<img src="https://i.ibb.co/b22f7Rm/Spatial-Lag.jpg" alt="Spatial-Lag" border="0">
 
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
 
@@ -122,11 +123,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OT
-k3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5
-OSwxMDEzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNj
-AwNjQ1NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1
-ODI3ODYxLC0xMTgzMzU1NzIwLDg5MzY5NjU4NiwxNTU0Mzg2Mz
-E4LDExNDI0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0x
-NDQzMzUxNzI4XX0=
+eyJoaXN0b3J5IjpbMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0Nz
+YxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0
+OSwtNzg1MDA4Mzk5LDEwMTM5ODUxODMsNzQ0MDkzNTg4LC02Mz
+UzNzI5MjUsLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1
+MjIyNDEsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NT
+g2LDE1NTQzODYzMTgsMTE0MjQ3MDEwMiwyMTMwODg5ODUxLC03
+MDk2Mjk0NDFdfQ==
 -->
