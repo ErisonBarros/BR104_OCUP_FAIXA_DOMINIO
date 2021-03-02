@@ -101,16 +101,16 @@ Verificações
  <img src="https://i.ibb.co/zxXmzjM/VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] Verificou-se forte dependência espacial  do IVS com as ocupações  irregulares, assim como sua componentes.
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
- 
+ <img src="https://i.ibb.co/g43Rt54/IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkxMTU3LC0xODk2NjYyODYyLC0xMj
-I0MjQxMDkyLDE2MDE0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5
-OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0MiwxMT
-cxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1
-MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC
-0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0x
-MTgzMzU1NzIwXX0=
+eyJoaXN0b3J5IjpbLTE4MTgzMTA5MDcsLTE4OTY2NjI4NjIsLT
+EyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4
+MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLD
+ExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5
+ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MT
+IsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEs
+LTExODMzNTU3MjBdfQ==
 -->
