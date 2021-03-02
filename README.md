@@ -93,24 +93,24 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 ## Conclusões 
 Verificações 
- - [ ] Verificou-se forte dependência espacial da densidades populacional e densidade de Domicílios tem uma forte relação com as ocupações irregulares.
+ - [ ] Verificou-se forte dependência espacial da variável densidades populacional e densidade de Domicílios.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
 <img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
 
- - [ ] Verificou-se forte dependência espacial  do Valor da Terra Nua com as ocupações  irregulares.
+ - [ ] Verificou-se forte dependência espacial  da variável  Valor da Terra Nua.
  <img src="https://i.ibb.co/zxXmzjM/VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
- - [ ] Verificou-se forte dependência espacial  do IVS com as ocupações  irregulares, assim como sua componentes.
+ - [ ] Verificou-se forte dependência espacial  dda IVS com as ocupações  irregulares, assim como sua componentes.
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/g43Rt54/IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgzMTA5MDcsLTE4OTY2NjI4NjIsLT
-EyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4
-MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLD
-ExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5
-ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MT
-IsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEs
-LTExODMzNTU3MjBdfQ==
+eyJoaXN0b3J5IjpbLTUzODcyMjczOSwtMTg5NjY2Mjg2MiwtMT
+IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
+OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
+E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
+NTE4Myw3NDQwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMi
+wtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwt
+MTE4MzM1NTcyMF19
 -->
