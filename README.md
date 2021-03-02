@@ -58,6 +58,7 @@ Resultados:
 ## Resultados do Modelo:
 
 [Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20final.txt)
+
 [Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial%20Lag.txt)
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
 
@@ -113,7 +114,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAxNTMxMywyMDYxNTU4NjQ5LC03OD
+eyJoaXN0b3J5IjpbMTE3MTA3ODMzNywyMDYxNTU4NjQ5LC03OD
 UwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNTM3Mjky
 NSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MS
 wtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4OTM2OTY1ODYsMTU1
