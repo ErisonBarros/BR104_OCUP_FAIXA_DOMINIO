@@ -124,12 +124,18 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 #### Correlação Espacial Bivariada
 
 <img src="https://i.ibb.co/prBFJ2n/BILISA.jpg" alt="BILISA" border="0">
+
+## Analise de Cluster
+
+<img src="https://i.ibb.co/qsXjK5q/Cluster-KMeans-5.jpg" alt="Cluster-KMeans-5" border="0">
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MDg0NzEyLC0xOTE5NzE2NDY4LDQ3OD
-Q1MDEwOCwtMTEyODYzNjUxMiwyODAzMTU5NjEsLTI0MzQ3NzM4
-MiwzMzcwMTgzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMT
-IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
-OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
-E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
-NTE4M119
+eyJoaXN0b3J5IjpbMzU5ODc3NjM2LDY5NDA4NDcxMiwtMTkxOT
+cxNjQ2OCw0Nzg0NTAxMDgsLTExMjg2MzY1MTIsMjgwMzE1OTYx
+LC0yNDM0NzczODIsMzM3MDE4MzA4LC0zODUxNzM4NDAsLTE4OT
+Y2NjI4NjIsLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3
+MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMD
+Y5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4
+Mzk5XX0=
 -->
