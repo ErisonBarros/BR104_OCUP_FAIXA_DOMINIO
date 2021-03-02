@@ -106,15 +106,22 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
  
 ### Verificações da Dependência Espacial em Relação a Variável Ocupação no ano de 2010 
 
- - [ ] Verificou-se forte dependência espacial da variável IVS com as Ocupações Irregulares..
+ - [ ] Verificou-se forte dependência espacial da variável IVS com as Ocupações Irregulares.
+
+<img src="https://i.ibb.co/9TnvT85/IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
+
+<img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzMzMTQ4MiwtMzg1MTczODQwLC0xOD
-k2NjYyODYyLC0xMjI0MjQxMDkyLDE2MDE0MTQ1MywxMjk1MjI3
-NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMT
-A2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAw
-ODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC
-0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0x
-MTU1ODI3ODYxXX0=
+eyJoaXN0b3J5IjpbODMxODExMzg4LC0zODUxNzM4NDAsLTE4OT
+Y2NjI4NjIsLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3
+MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMD
+Y5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4
+Mzk5LDEwMTM5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLT
+E2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTEx
+NTU4Mjc4NjFdfQ==
 -->
