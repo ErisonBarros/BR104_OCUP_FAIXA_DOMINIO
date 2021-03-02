@@ -99,18 +99,18 @@ Verificações
 
  - [ ] Verificou-se forte dependência espacial  do Valor da Terra Nua com as ocupações  irregulares.
  <img src="https://i.ibb.co/zxXmzjM/VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
- - [ ] List item
+ - [ ] Verificou-se forte dependência espacial  do IVS com as ocupações  irregulares.
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NzAzNzMyLC0xMjI0MjQxMDkyLDE2MD
-E0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3
-LDEyNDc2MTMxMjIsMTA2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNj
-E1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4
-OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC
-0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1NzIwLDg5
-MzY5NjU4Nl19
+eyJoaXN0b3J5IjpbLTE4OTY2NjI4NjIsLTEyMjQyNDEwOTIsMT
+YwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4MTk5NCw5NzU0MDQz
+MjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgzMzcsMj
+A2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUxODMsNzQ0MDkz
+NTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLTE3MDcyMzU4NT
+YsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAs
+ODkzNjk2NTg2XX0=
 -->
