@@ -113,20 +113,20 @@ Verifica-se grade significância Estatística da dependência espacial  na área
 
 <img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
 
-Verifica-se que nas regiões de travessia urbana temos 
+Verifica-se que nas regiões de travessia urbana temos  a grande número de ocorrências de baixo IVS com alto
 
 <img src="https://i.ibb.co/1KS3sHv/LISA-Ocup-BR104-OF.png" alt="LISA-Ocup-BR104-OF" border="0">
 
-
+<img src="https://i.ibb.co/mGMRmbp/IVS-destaque-Caruraru-Ocup-BR104-OF.png" alt="IVS-destaque-Caruraru-Ocup-BR104-OF" border="0">
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzQ3NzM4MiwzMzcwMTgzMDgsLTM4NT
-E3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0
-NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMj
-Q3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4
-NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLT
-YzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgy
-NTUyMjI0MV19
+eyJoaXN0b3J5IjpbMTg5MDM0NTcsLTI0MzQ3NzM4MiwzMzcwMT
+gzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5
+MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NT
+QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
+NywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3ND
+QwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIz
+NTg1Nl19
 -->
