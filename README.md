@@ -93,18 +93,18 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 ## Conclusões 
 Verificações 
- - [ ] List item
+ - [ ] Verificamos que a densidades populacional, densidade de Domicílios tem uma forte relação com as ocupações irregulares.
  - [ ] List item
  - [ ] List item
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTI1MTU2NywxMjk1MjI3NzIzLDEzNz
-Q0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0
-MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5OSwxMD
-EzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1
-NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3OD
-YxLC0xMTgzMzU1NzIwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDEx
-NDI0NzAxMDJdfQ==
+eyJoaXN0b3J5IjpbMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3ND
+Q4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQy
+LDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMT
+M5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3
+MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4Nj
+EsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0
+MjQ3MDEwMl19
 -->
