@@ -92,7 +92,7 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 | Akaike InfoCriterion	|      560.154   	|       -2739.83              	|     -2737.56
 
 ## Conclusões 
-**Verificações da Dependência Espacial**
+### **Verificações da Dependência Espacial**
  - [ ] Verificou-se forte dependência espacial da variável densidades populacional e densidade de Domicílios.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
 <img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
@@ -103,16 +103,18 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/g43Rt54/IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/9TnvT85/IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
-**Verificações da Dependência Espacial em Relação a Variável Ocupação no ano de 2010 **
+ 
+### Verificações da Dependência Espacial em Relação a Variável Ocupação no ano de 2010 
+
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMT
-IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
-OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
-E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
-NTE4Myw3NDQwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMi
-wtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwt
-MTE4MzM1NTcyMF19
+eyJoaXN0b3J5IjpbMTYwNDgxNjY3NiwtMzg1MTczODQwLC0xOD
+k2NjYyODYyLC0xMjI0MjQxMDkyLDE2MDE0MTQ1MywxMjk1MjI3
+NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMT
+A2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAw
+ODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC
+0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0x
+MTU1ODI3ODYxXX0=
 -->
