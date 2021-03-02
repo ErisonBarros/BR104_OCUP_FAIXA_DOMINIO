@@ -76,9 +76,9 @@ HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 
 |               	| Regressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
-| logLikelihood 	|  -336.765           	| 1738.647513                     	|
-| Akaike Info   	|683.53           	| -3467.3                      	|
-| Criterion     	|                   	|                             	|
+| logLikelihood 	|  -274.077         	| 1738.647513                     	|
+| Akaike Info   	|560.154           	| -3467.3                      	|
+| Schwarz criterionCriterion     	|     590.779              	|                             	|
 
 **Comparação de coeficientes padronizados**
 
@@ -124,11 +124,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzg3NTg2NCwxMzc0NDgxOTk0LDk3NT
-QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
-NywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3ND
-QwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIz
-NTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NT
-cyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIx
-MzA4ODk4NTFdfQ==
+eyJoaXN0b3J5IjpbNTM4MjE2NzI3LDEzNzQ0ODE5OTQsOTc1ND
+A0MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0MiwxMTcxMDc4MzM3
+LDIwNjE1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0ND
+A5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1
+ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1Nz
+IwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDExNDI0NzAxMDIsMjEz
+MDg4OTg1MV19
 -->
