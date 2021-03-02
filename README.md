@@ -88,9 +88,9 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 |               	| Regressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Lag"  	
 |---------------	|-------------------	|-----------------------------	|-----------------------------	|
-| logLikelihood	|    XXXXX    	|        XXXXX           	|XXXXX
-| Akaike Info	|       XXX	|        XXXXX             	|     XXXXX
-| Criterion|                        XXXXXX     	|XXXXX
+| logLikelihood	|    -274.077    	|       1372.915120         	|XXXXX
+| Akaike InfoCriterion	|      560.154   	|       -2739.83              	|     XXXXX
+
 
 
 
@@ -114,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjgxMjEyNCwxMjk1MjI3NzIzLDEzNz
-Q0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0
-MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5OSwxMD
-EzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1
-NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3OD
-YxLC0xMTgzMzU1NzIwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDEx
-NDI0NzAxMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTQ3MzcxNzEsMTI5NTIyNzcyMywxMz
+c0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1
+NDIsMTE3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMT
+AxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0
+NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNz
+g2MSwtMTE4MzM1NTcyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwx
+MTQyNDcwMTAyXX0=
 -->
