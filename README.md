@@ -95,14 +95,14 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 Verificações 
  - [ ] Verificamos que a densidades populacional, densidade de Domicílios tem uma forte relação com as ocupações irregulares.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
-
+<img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
  - [ ] List item
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjg4MTY4OCwxNjAxNDE0NTMsMTI5NT
+eyJoaXN0b3J5IjpbMTEzNDY4OTgxNywxNjAxNDE0NTMsMTI5NT
 IyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIy
 LDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4NjQ5LC03OD
 UwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNTM3Mjky
