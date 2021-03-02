@@ -113,7 +113,7 @@ Verifica-se grade significância Estatística da dependência espacial  na área
 
 <img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
 
-Verifica-se grade significância Estatística da dependência espacial  na áreas de travessia urbana, principalmente na cidade de Caruaru-PE.
+Verifica-se que nas regiões de travessia urbana temos 
 
 <img src="https://i.ibb.co/1KS3sHv/LISA-Ocup-BR104-OF.png" alt="LISA-Ocup-BR104-OF" border="0">
 
@@ -122,7 +122,7 @@ Verifica-se grade significância Estatística da dependência espacial  na área
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTM3NDUzOCwzMzcwMTgzMDgsLTM4NT
+eyJoaXN0b3J5IjpbLTI0MzQ3NzM4MiwzMzcwMTgzMDgsLTM4NT
 E3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0
 NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMj
 Q3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4
