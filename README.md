@@ -121,17 +121,15 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 <img src="https://i.ibb.co/mGMRmbp/IVS-destaque-Caruraru-Ocup-BR104-OF.png" alt="IVS-destaque-Caruraru-Ocup-BR104-OF" border="0">
 
-
-
 #### Correlação Espacial Bivariada
 
 <img src="https://i.ibb.co/prBFJ2n/BILISA.jpg" alt="BILISA" border="0">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMT
-I4NjM2NTEyLDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMw
-OCwtMzg1MTczODQwLC0xODk2NjYyODYyLC0xMjI0MjQxMDkyLD
-E2MDE0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0
-MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0MiwxMTcxMDc4MzM3LD
-IwNjE1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0NDA5
-MzU4OF19
+eyJoaXN0b3J5IjpbNjk0MDg0NzEyLC0xOTE5NzE2NDY4LDQ3OD
+Q1MDEwOCwtMTEyODYzNjUxMiwyODAzMTU5NjEsLTI0MzQ3NzM4
+MiwzMzcwMTgzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMT
+IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
+OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
+E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
+NTE4M119
 -->
