@@ -66,7 +66,8 @@ Hipótese Nula: Variância é constante (Homocedasticidade), hipótese nula foi 
 Como salvamos os resíduos e valores previstos na tabela, podemos elaborar  mapas e gráficos a partir destas informações.
 HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 <img src="https://i.ibb.co/tHsWkXw/Histograma-do-Residuo.png" alt="Histograma-do-Residuo" border="0">
-[Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial%20Lag.txt)
+[Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20Spatal%20Lag.txt)
+
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
 
 **COMPARAÇÃO DE RESULTADOS**
@@ -121,11 +122,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNz
-EwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUx
-ODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLT
-E3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTEx
-ODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MD
-EwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mjgs
-LTE1MDg3Mjc3MDldfQ==
+eyJoaXN0b3J5IjpbOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OT
+k3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5
+OSwxMDEzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNj
+AwNjQ1NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1
+ODI3ODYxLC0xMTgzMzU1NzIwLDg5MzY5NjU4NiwxNTU0Mzg2Mz
+E4LDExNDI0NzAxMDIsMjEzMDg4OTg1MSwtNzA5NjI5NDQxLC0x
+NDQzMzUxNzI4XX0=
 -->
