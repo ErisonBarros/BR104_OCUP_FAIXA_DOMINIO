@@ -103,11 +103,12 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/g43Rt54/IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/9TnvT85/IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
+**Verificações da Dependência Espacial em Relação a Variável Ocupação no ano de 2010 **
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjQyODUyMSwtMTg5NjY2Mjg2MiwtMT
+eyJoaXN0b3J5IjpbLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMT
 IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
 OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
 E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
