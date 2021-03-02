@@ -106,11 +106,11 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
  
 ### Verificações da Dependência Espacial em Relação a Variável Ocupação no ano de 2010 
 
- - [ ] List item
+ - [ ] Verificou-se forte dependência espacial da variável IVS com as Ocupações Irregulares..
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDgxNjY3NiwtMzg1MTczODQwLC0xOD
+eyJoaXN0b3J5IjpbLTUxNzMzMTQ4MiwtMzg1MTczODQwLC0xOD
 k2NjYyODYyLC0xMjI0MjQxMDkyLDE2MDE0MTQ1MywxMjk1MjI3
 NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMT
 A2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAw
