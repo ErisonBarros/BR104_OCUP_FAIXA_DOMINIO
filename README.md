@@ -112,12 +112,14 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 <img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
 
+<img src="https://i.ibb.co/1KS3sHv/LISA-Ocup-BR104-OF.png" alt="LISA-Ocup-BR104-OF" border="0">
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxODExMzg4LC0zODUxNzM4NDAsLTE4OT
+eyJoaXN0b3J5IjpbMzM3MDE4MzA4LC0zODUxNzM4NDAsLTE4OT
 Y2NjI4NjIsLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3
 MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMD
 Y5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4
