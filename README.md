@@ -70,7 +70,7 @@ HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 <img src="https://i.ibb.co/b22f7Rm/Spatial-Lag.jpg" alt="Spatial-Lag" border="0">
 
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20Spatal%20Erro.txt)
-
+<img src="https://i.ibb.co/86c03GG/Spatial-Erro.jpg" alt="Spatial-Erro" border="0">
 
 **COMPARAÇÃO DE RESULTADOS**
 
@@ -124,11 +124,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUwNTgzNzMsMTM3NDQ4MTk5NCw5Nz
-U0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgz
-MzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUxODMsNz
-Q0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLTE3MDcy
-MzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTExODMzNT
-U3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MDEwMiwy
-MTMwODg5ODUxXX0=
+eyJoaXN0b3J5IjpbMTY1Mzg3NTg2NCwxMzc0NDgxOTk0LDk3NT
+QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
+NywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3ND
+QwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIz
+NTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NT
+cyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIx
+MzA4ODk4NTFdfQ==
 -->
