@@ -59,8 +59,8 @@ Resultados:
 
 [Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20final.txt)
 <img src="https://i.ibb.co/wgDyG5W/Capturar.jpg" alt="Capturar" border="0">
-HETEROCEDASTICIDADE (Breusch-Pagan, Koenker-Basset e Teste White)
-Hipótese Nula: Variância é constante (Homocedasticidade)
+**HETEROCEDASTICIDADE (Breusch-Pagan, Koenker-Basset e Teste White)**
+Hipótese Nula: Variância é constante (Homocedasticidade), hipótese nula foi rejeitada
 
 [Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial%20Lag.txt)
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
@@ -117,11 +117,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM4ODAwMTMsMTE3MTA3ODMzNywyMD
-YxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1
-ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1Ni
-wtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4
-OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIxMzA4OD
-k4NTEsLTcwOTYyOTQ0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcw
-OSwxNzg5ODExOTAzXX0=
+eyJoaXN0b3J5IjpbMTA1NTg5NDQ2MSwxMTcxMDc4MzM3LDIwNj
+E1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4
+OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC
+0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1NzIwLDg5
+MzY5NjU4NiwxNTU0Mzg2MzE4LDExNDI0NzAxMDIsMjEzMDg4OT
+g1MSwtNzA5NjI5NDQxLC0xNDQzMzUxNzI4LC0xNTA4NzI3NzA5
+LDE3ODk4MTE5MDNdfQ==
 -->
