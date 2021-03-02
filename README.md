@@ -4,8 +4,9 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 2010 e associado a valor de terra nua disponibilizados pelo INCRA, para verificar o comportamento do fenômeno.
 
 ## Tratamento dos Dados 
-[Pré-Processamento dos dados](https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
-
+[Pré-Processamento dos dados]
+(https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
+<img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o" width="640" height="480"></iframe>
 
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
@@ -56,7 +57,7 @@ Resultados:
 
 ## Resultados do Modelo:
 
-[Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20da%20Regress%C3%A3o%20Classica.txt)
+[Modelo Clássico:](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultados%20da%20Regress%C3%A3o%20final.txt)
 [Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial%20Lag.txt)
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
 
@@ -112,11 +113,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMT
-M5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3
-MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4Nj
-EsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0
-MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNT
-E3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1
-NSwxMDMyMTQyMjE1XX0=
+eyJoaXN0b3J5IjpbLTEwMDAxNTMxMywyMDYxNTU4NjQ5LC03OD
+UwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNTM3Mjky
+NSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MS
+wtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4OTM2OTY1ODYsMTU1
+NDM4NjMxOCwxMTQyNDcwMTAyLDIxMzA4ODk4NTEsLTcwOTYyOT
+Q0MSwtMTQ0MzM1MTcyOCwtMTUwODcyNzcwOSwxNzg5ODExOTAz
+LC0xNzA3NDM4OTU1XX0=
 -->
