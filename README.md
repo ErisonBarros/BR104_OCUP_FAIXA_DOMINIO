@@ -126,12 +126,14 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 <img src="https://i.ibb.co/prBFJ2n/BILISA.jpg" alt="BILISA" border="0">
 
 ## Analise de Cluster
-
+**Configuração de Cluster**
 <img src="https://i.ibb.co/qsXjK5q/Cluster-KMeans-5.jpg" alt="Cluster-KMeans-5" border="0">
 
+**Mapa de Cluster Kmeans**
+<img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5ODc3NjM2LDY5NDA4NDcxMiwtMTkxOT
+eyJoaXN0b3J5IjpbMTE3MjY2NTUyLDY5NDA4NDcxMiwtMTkxOT
 cxNjQ2OCw0Nzg0NTAxMDgsLTExMjg2MzY1MTIsMjgwMzE1OTYx
 LC0yNDM0NzczODIsMzM3MDE4MzA4LC0zODUxNzM4NDAsLTE4OT
 Y2NjI4NjIsLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3
