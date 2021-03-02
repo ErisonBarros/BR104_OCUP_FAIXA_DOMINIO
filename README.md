@@ -92,7 +92,7 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 | Akaike InfoCriterion	|      560.154   	|       -2739.83              	|     -2737.56
 
 ## Conclusões 
-Verificações 
+**Verificações da Dependência Espacial**
  - [ ] Verificou-se forte dependência espacial da variável densidades populacional e densidade de Domicílios.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
 <img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
@@ -102,15 +102,16 @@ Verificações
  - [ ] Verificou-se forte dependência espacial  da variável  IVS , assim como sua componentes (Renda, Infraestrutural, Social).
  <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  <img src="https://i.ibb.co/g43Rt54/IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-REN10-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
+ <img src="https://i.ibb.co/9TnvT85/IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY1NzUyNTIsLTE4OTY2NjI4NjIsLT
-EyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4
-MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLD
-ExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5
-ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MT
-IsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEs
-LTExODMzNTU3MjBdfQ==
+eyJoaXN0b3J5IjpbMTczNjQyODUyMSwtMTg5NjY2Mjg2MiwtMT
+IyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgx
+OTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMT
+E3MTA3ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4
+NTE4Myw3NDQwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMi
+wtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwt
+MTE4MzM1NTcyMF19
 -->
