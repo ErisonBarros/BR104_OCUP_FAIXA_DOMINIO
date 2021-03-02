@@ -113,7 +113,7 @@ Verifica-se grade significância Estatística da dependência espacial  na área
 
 <img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
 
-Verifica-se que nas regiões de travessia urbana temos  a grande número de ocorrências de baixo IVS com alto númeo de ocupações irregulares.
+Verifica-se que nas regiões de travessia urbana temos  a grande número de ocorrências de baixo IVS com alto número de ocupações irregulares.
 
 <img src="https://i.ibb.co/1KS3sHv/LISA-Ocup-BR104-OF.png" alt="LISA-Ocup-BR104-OF" border="0">
 
@@ -124,11 +124,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcxMDc5OTMsLTI0MzQ3NzM4MiwzMz
-cwMTgzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0
-MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LD
-k3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3
-ODMzNywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4My
-w3NDQwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcw
-NzIzNTg1Nl19
+eyJoaXN0b3J5IjpbMjgwMzE1OTYxLC0yNDM0NzczODIsMzM3MD
+E4MzA4LC0zODUxNzM4NDAsLTE4OTY2NjI4NjIsLTEyMjQyNDEw
+OTIsMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4MTk5NCw5Nz
+U0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgz
+MzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUxODMsNz
+Q0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLTE3MDcy
+MzU4NTZdfQ==
 -->
