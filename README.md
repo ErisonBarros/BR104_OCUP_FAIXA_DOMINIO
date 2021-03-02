@@ -80,23 +80,13 @@ HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 | Akaike Info   	|560.154           	| -2739.83                     	|
 | Schwarz criterionCriterion     	|      590.779           	|  -2724.52                           	|
 
-**Comparação de coeficientes padronizados**
-
-|               	| Régressão Simples 	| Regressão "Espacial Error"  	|
-|---------------	|-------------------	|-----------------------------	|
-| constante 	|        	|                   	|
-| IVS _INF  	|       	|                     	|
-| IVS_CPH
-|IVS_REN    	|                   	|                             	|
-|DENS_HAB  	|                   	|                             	|
-|LANBDA 	|                   	|                             	|
 
 **Regressão Spatial Error:   Autocorrelação dos Resíduos**
 Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 ### Regressão “Spatial Lag”
 
-|               	| Régressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Error"  	
+|               	| Regressão Simples 	| Regressão "Espacial Error"  	|Regressão "Espacial Lag"  	
 |---------------	|-------------------	|-----------------------------	|-----------------------------	|
 | logLikelihood	|    XXXXX    	|        XXXXX           	|XXXXX
 | Akaike Info	|       XXX	|        XXXXX             	|     XXXXX
@@ -124,11 +114,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NT
-QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
-NywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3ND
-QwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIz
-NTg1NiwtMTgyNTUyMjI0MSwtMTE1NTgyNzg2MSwtMTE4MzM1NT
-cyMCw4OTM2OTY1ODYsMTU1NDM4NjMxOCwxMTQyNDcwMTAyLDIx
-MzA4ODk4NTFdfQ==
+eyJoaXN0b3J5IjpbMjA5MjgxMjEyNCwxMjk1MjI3NzIzLDEzNz
+Q0ODE5OTQsOTc1NDA0MzI3LDEyNDc2MTMxMjIsMTA2OTk3NzU0
+MiwxMTcxMDc4MzM3LDIwNjE1NTg2NDksLTc4NTAwODM5OSwxMD
+EzOTg1MTgzLDc0NDA5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1
+NzEyLC0xNzA3MjM1ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3OD
+YxLC0xMTgzMzU1NzIwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDEx
+NDI0NzAxMDJdfQ==
 -->
