@@ -78,7 +78,7 @@ HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 |---------------	|-------------------	|-----------------------------	|
 | logLikelihood 	|  -274.077         	| 1372.915120                  	|
 | Akaike Info   	|560.154           	| -2739.83                     	|
-| Schwarz criterionCriterion     	|     -2724.52            	|  -2724.52                           	|
+| Schwarz criterionCriterion     	|      590.779           	|  -2724.52                           	|
 
 **Comparação de coeficientes padronizados**
 
@@ -124,7 +124,7 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDM2MzI2NywxMzc0NDgxOTk0LDk3NT
+eyJoaXN0b3J5IjpbMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NT
 QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
 NywyMDYxNTU4NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3ND
 QwOTM1ODgsLTYzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIz
