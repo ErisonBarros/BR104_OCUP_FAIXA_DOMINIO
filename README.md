@@ -64,8 +64,8 @@ Hipótese Nula: Variância é constante (Homocedasticidade), hipótese nula foi 
 **AUTOCORRELAÇÃO ESPACIAL**  
 Índice de Moran
 Como salvamos os resíduos e valores previstos na tabela, podemos elaborar  mapas e gráficos a partir destas informações.
-
-
+HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
+<img src="https://i.ibb.co/tHsWkXw/Histograma-do-Residuo.png" alt="Histograma-do-Residuo" border="0">
 [Modelo Espacial Lag](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial%20Lag.txt)
 [Modelo Espacial Erro](https://raw.githubusercontent.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/master/Resultado%20Espacial_Erro.txt)
 
@@ -121,11 +121,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNj
-E1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4
-OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC
-0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1NzIwLDg5
-MzY5NjU4NiwxNTU0Mzg2MzE4LDExNDI0NzAxMDIsMjEzMDg4OT
-g1MSwtNzA5NjI5NDQxLC0xNDQzMzUxNzI4LC0xNTA4NzI3NzA5
-LDE3ODk4MTE5MDNdfQ==
+eyJoaXN0b3J5IjpbMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNz
+EwNzgzMzcsMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUx
+ODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLT
+E3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4NjEsLTEx
+ODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0MjQ3MD
+EwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNTE3Mjgs
+LTE1MDg3Mjc3MDldfQ==
 -->
