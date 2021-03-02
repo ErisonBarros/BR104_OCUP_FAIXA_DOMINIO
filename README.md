@@ -52,9 +52,7 @@ Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regr
 
 # Pré- Processamento no GEODA
 Resultados:
-<img src="https://i.ibb.co/bRZNfFw/Escolhas-das-Variaveis.jpg" alt="Escolhas-das-Variaveis" border="0">
-
-
+<img src="https://i.ibb.co/yFkx68K/Analise-de-Regress-o.jpg" alt="Analise-de-Regress-o" border="0">
 
 ## Resultados do Modelo:
 
@@ -114,11 +112,11 @@ Verificações
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0ND
-A5MzU4OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1
-ODU2LC0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1Nz
-IwLDg5MzY5NjU4NiwxNTU0Mzg2MzE4LDExNDI0NzAxMDIsMjEz
-MDg4OTg1MSwtNzA5NjI5NDQxLC0xNDQzMzUxNzI4LC0xNTA4Nz
-I3NzA5LDE3ODk4MTE5MDMsLTE3MDc0Mzg5NTUsMTAzMjE0MjIx
-NSwtMjA2NjcwMjU5MV19
+eyJoaXN0b3J5IjpbMjA2MTU1ODY0OSwtNzg1MDA4Mzk5LDEwMT
+M5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5MjUsLTE2MDA2NDU3
+MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyNDEsLTExNTU4Mjc4Nj
+EsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1NTQzODYzMTgsMTE0
+MjQ3MDEwMiwyMTMwODg5ODUxLC03MDk2Mjk0NDEsLTE0NDMzNT
+E3MjgsLTE1MDg3Mjc3MDksMTc4OTgxMTkwMywtMTcwNzQzODk1
+NSwxMDMyMTQyMjE1XX0=
 -->
