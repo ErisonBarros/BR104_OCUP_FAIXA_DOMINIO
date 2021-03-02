@@ -93,21 +93,22 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 
 ## Conclusões 
 Verificações 
- - [ ] Verificamos que a densidades populacional, densidade de Domicílios tem uma forte relação com as ocupações irregulares.
+ - [ ] Verificou-se que a densidades populacional, densidade de Domicílios tem uma forte relação com as ocupações irregulares.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
 <img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
 
- - [ ] List item
+ - [ ] Verificou-se que a forte relação do Valor da Terra Nua com as ocupações  irregulares.
+ <img src="https://i.ibb.co/zxXmzjM/VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzA4NTE5MSwxNjAxNDE0NTMsMTI5NT
-IyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIy
-LDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4NjQ5LC03OD
-UwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLTYzNTM3Mjky
-NSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgyNTUyMjI0MS
-wtMTE1NTgyNzg2MSwtMTE4MzM1NTcyMCw4OTM2OTY1ODYsMTU1
-NDM4NjMxOF19
+eyJoaXN0b3J5IjpbLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOT
+UyMjc3MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEy
+MiwxMDY5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNz
+g1MDA4Mzk5LDEwMTM5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5
+MjUsLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyND
+EsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1
+NTQzODYzMThdfQ==
 -->
