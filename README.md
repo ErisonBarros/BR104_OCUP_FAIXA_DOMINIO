@@ -109,8 +109,11 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
  - [ ] Verificou-se forte dependência espacial da variável IVS com as Ocupações Irregulares.
 
 <img src="https://i.ibb.co/9TnvT85/IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-CPH-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
-Verifica-se grade significância da dependência espacial  na áreas de travessia urbana, principalmente 
+Verifica-se grade significância Estatística da dependência espacial  na áreas de travessia urbana, principalmente na cidade de Caruaru-PE.
+
 <img src="https://i.ibb.co/N3w5qFr/IVS-Ocup-BR104-OF.png" alt="IVS-Ocup-BR104-OF" border="0">
+
+Verifica-se grade significância Estatística da dependência espacial  na áreas de travessia urbana, principalmente na cidade de Caruaru-PE.
 
 <img src="https://i.ibb.co/1KS3sHv/LISA-Ocup-BR104-OF.png" alt="LISA-Ocup-BR104-OF" border="0">
 
@@ -119,11 +122,11 @@ Verifica-se grade significância da dependência espacial  na áreas de travessi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkwNzUzNjAsMzM3MDE4MzA4LC0zOD
-UxNzM4NDAsLTE4OTY2NjI4NjIsLTEyMjQyNDEwOTIsMTYwMTQx
-NDUzLDEyOTUyMjc3MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMT
-I0NzYxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1
-ODY0OSwtNzg1MDA4Mzk5LDEwMTM5ODUxODMsNzQ0MDkzNTg4LC
-02MzUzNzI5MjUsLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLTE4
-MjU1MjIyNDFdfQ==
+eyJoaXN0b3J5IjpbLTY4OTM3NDUzOCwzMzcwMTgzMDgsLTM4NT
+E3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0
+NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMj
+Q3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4
+NjQ5LC03ODUwMDgzOTksMTAxMzk4NTE4Myw3NDQwOTM1ODgsLT
+YzNTM3MjkyNSwtMTYwMDY0NTcxMiwtMTcwNzIzNTg1NiwtMTgy
+NTUyMjI0MV19
 -->
