@@ -97,18 +97,20 @@ Verificações
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
 <img src="https://i.ibb.co/Ryy4mMX/Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="Densidade-habitacional-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
 
- - [ ] Verificou-se que a forte relação do Valor da Terra Nua com as ocupações  irregulares.
+ - [ ] Verificou-se forte dependencia do Valor da Terra Nua com as ocupações  irregulares.
  <img src="https://i.ibb.co/zxXmzjM/VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="VTN-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
  - [ ] List item
+ <img src="https://i.ibb.co/VgqSRk2/IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame.png" alt="IVS-Ocup-BR104-OFLisa-Scatter-Plot-Frame" border="0">
+ 
  - [ ] List item
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQyNDEwOTIsMTYwMTQxNDUzLDEyOT
-UyMjc3MjMsMTM3NDQ4MTk5NCw5NzU0MDQzMjcsMTI0NzYxMzEy
-MiwxMDY5OTc3NTQyLDExNzEwNzgzMzcsMjA2MTU1ODY0OSwtNz
-g1MDA4Mzk5LDEwMTM5ODUxODMsNzQ0MDkzNTg4LC02MzUzNzI5
-MjUsLTE2MDA2NDU3MTIsLTE3MDcyMzU4NTYsLTE4MjU1MjIyND
-EsLTExNTU4Mjc4NjEsLTExODMzNTU3MjAsODkzNjk2NTg2LDE1
-NTQzODYzMThdfQ==
+eyJoaXN0b3J5IjpbOTQ3MzU0MTgyLC0xMjI0MjQxMDkyLDE2MD
+E0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3
+LDEyNDc2MTMxMjIsMTA2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNj
+E1NTg2NDksLTc4NTAwODM5OSwxMDEzOTg1MTgzLDc0NDA5MzU4
+OCwtNjM1MzcyOTI1LC0xNjAwNjQ1NzEyLC0xNzA3MjM1ODU2LC
+0xODI1NTIyMjQxLC0xMTU1ODI3ODYxLC0xMTgzMzU1NzIwLDg5
+MzY5NjU4Nl19
 -->
