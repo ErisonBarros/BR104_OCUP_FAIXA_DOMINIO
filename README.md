@@ -1,6 +1,7 @@
 # Sumário
 
 - [Análise Exploratória dos Dados](#id-section1)
+		-  
 
 - [Tratamento dos Dados](#id-section2)
 
@@ -140,11 +141,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 <img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyOTE2OTcyLDExNzI2NjU1Miw2OTQwOD
-Q3MTIsLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMTI4NjM2NTEy
-LDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMwOCwtMzg1MT
-czODQwLC0xODk2NjYyODYyLC0xMjI0MjQxMDkyLDE2MDE0MTQ1
-MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0MzI3LDEyND
-c2MTMxMjIsMTA2OTk3NzU0MiwxMTcxMDc4MzM3LDIwNjE1NTg2
-NDldfQ==
+eyJoaXN0b3J5IjpbMTk5NjU5NDY0NSwxMTcyNjY1NTIsNjk0MD
+g0NzEyLC0xOTE5NzE2NDY4LDQ3ODQ1MDEwOCwtMTEyODYzNjUx
+MiwyODAzMTU5NjEsLTI0MzQ3NzM4MiwzMzcwMTgzMDgsLTM4NT
+E3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0
+NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMj
+Q3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMzNywyMDYxNTU4
+NjQ5XX0=
 -->
