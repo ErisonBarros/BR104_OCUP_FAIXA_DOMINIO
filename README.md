@@ -11,6 +11,10 @@
 Realizou-se uma analise exploratória dos dados da ocorrência de ocupações irregulares sobre a faixa de domínio da BR-104. Usando os dados os dados IVS de 
 2010 e associado a valor de terra nua disponibilizados pelo INCRA, para verificar o comportamento do fenômeno.
 
+---
+
+<div id='id-section2'/>
+
 ## Tratamento dos Dados 
 [Pré-Processamento dos dados]
 (https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
@@ -141,7 +145,7 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 <img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ1MjQ2LDExNzI2NjU1Miw2OTQwOD
+eyJoaXN0b3J5IjpbOTUzNjkzMDIwLDExNzI2NjU1Miw2OTQwOD
 Q3MTIsLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMTI4NjM2NTEy
 LDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMwOCwtMzg1MT
 czODQwLC0xODk2NjYyODYyLC0xMjI0MjQxMDkyLDE2MDE0MTQ1
