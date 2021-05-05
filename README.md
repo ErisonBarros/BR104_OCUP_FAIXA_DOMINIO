@@ -1,11 +1,13 @@
-# Sumário
 
+Tecnologias
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
+# Sumário
+
 
 - [Análise Exploratória dos Dados](#id-section1)
 		-  [Tratamento dos Dados](#id-section2)
@@ -152,11 +154,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 <img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTQzNTU5LDk1MzY5MzAyMCwxMTcyNj
-Y1NTIsNjk0MDg0NzEyLC0xOTE5NzE2NDY4LDQ3ODQ1MDEwOCwt
-MTEyODYzNjUxMiwyODAzMTU5NjEsLTI0MzQ3NzM4MiwzMzcwMT
-gzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5
-MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NT
-QwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1NDIsMTE3MTA3ODMz
-N119
+eyJoaXN0b3J5IjpbMTc4NzcyODEzNyw5NTM2OTMwMjAsMTE3Mj
+Y2NTUyLDY5NDA4NDcxMiwtMTkxOTcxNjQ2OCw0Nzg0NTAxMDgs
+LTExMjg2MzY1MTIsMjgwMzE1OTYxLC0yNDM0NzczODIsMzM3MD
+E4MzA4LC0zODUxNzM4NDAsLTE4OTY2NjI4NjIsLTEyMjQyNDEw
+OTIsMTYwMTQxNDUzLDEyOTUyMjc3MjMsMTM3NDQ4MTk5NCw5Nz
+U0MDQzMjcsMTI0NzYxMzEyMiwxMDY5OTc3NTQyLDExNzEwNzgz
+MzddfQ==
 -->
