@@ -23,6 +23,8 @@ Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibil
 | 0,700 - 0,799 	| 7     	|
 | 0,800 - 0,899 	| 8     	|
 ```
+As variaveis Analisadas de forma raster:
+ 
 
 .
 	 
@@ -30,6 +32,6 @@ Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMT
-MxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbMjA2MzAzOTQwMSwtMTI3ODkyODEzNSwxNj
+QyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
 -->
