@@ -23,8 +23,28 @@ Para isso usamos os dados do Índices de Vulnerabilidade Social (IVS) disponibil
 | 0,700 - 0,799 	| 7     	|
 | 0,800 - 0,899 	| 8     	|
 ```
-As variaveis Analisadas de forma raster:
- 
+As variáveis Analisadas de forma raster:
+ > Percentual de DPPs com abastecimento de água da rede geral.					
+> Percentual de DPPs com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial.		
+> Percentual de DPPs com lixo coletado por serviço de limpeza.					
+> Rendimento nominal mensal dos Responsáveis por Domicílio					
+> Percentual de Domicílios particulares precários					
+> Percentual de domicílios particulares com banheiro ou sanitário sem esgotamento sanitário via rede geral de esgoto, pluvial ou fossa séptica	
+> Percentual de DPPs sem banheiro					
+> Percentual de DPPs com lixo não coletado					
+> Percentual de DPPs alugados					
+> Percentual de DPPs com mais 4 moradores					
+> Percentual de responsáveis por DPPs sem rendimento nominal mensal					
+> Percentual de responsáveis por DPPs com rendimento nominal mensal de até 3 salários mínimos					
+> Percentual Chefe de Familia Alfabetizado					
+> Percentual Pessoas alfabetizadas					
+> Renda per capita (apenas dos responsáveis pela família)					
+> Distância das ocupações até o eixo da BR-104
+
+# Normalização dos Dados
+
+
+
 
 .
 	 
@@ -32,6 +52,6 @@ As variaveis Analisadas de forma raster:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzAzOTQwMSwtMTI3ODkyODEzNSwxNj
-QyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc1MjgxMjUsLTEyNzg5MjgxMzUsMT
+Y0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
 -->
