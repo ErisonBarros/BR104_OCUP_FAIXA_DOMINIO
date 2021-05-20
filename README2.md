@@ -43,7 +43,10 @@ As variáveis Analisadas de forma raster:
 
 # Normalização dos Dados
 
-
+### Distância das ocupações até o eixo da BR-104
+* pixel 1 = distancias de 0 a 500m
+* pixel 2 = distancias de 501 a 1000m
+* pixel 3 = distâncias acima de 1000m
 
 
 .
@@ -52,6 +55,6 @@ As variáveis Analisadas de forma raster:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc1MjgxMjUsLTEyNzg5MjgxMzUsMT
+eyJoaXN0b3J5IjpbLTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMT
 Y0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
 -->
