@@ -87,8 +87,11 @@ As variáveis Analisadas de forma raster:
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMj
-c4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5
-MDc5Ml19
+eyJoaXN0b3J5IjpbMTUyMDk4MDcyMSw2NjU0MzUxNzUsLTE5MD
+c0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMTMxNTU5
+NTAxLC0yMTIxMjkwNzkyXX0=
 -->
