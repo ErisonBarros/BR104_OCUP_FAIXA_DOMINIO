@@ -49,12 +49,46 @@ As variáveis Analisadas de forma raster:
 * pixel 3 = distâncias acima de 1000m
 
 
-.
-	 
+| Sigla_Variavel 	|            	| Descrição                                                                                                                                    	|   	|   	|   	|   	|   	|
+|----------------	|------------	|----------------------------------------------------------------------------------------------------------------------------------------------	|---	|---	|---	|---	|---	|
+| 2000           	| 2010       	|                                                                                                                                              	|   	|   	|   	|   	|   	|
+| P_AGUA_00      	| P_AGUA_10  	| Percentual de DPPs com abastecimento de água da rede geral.                                                                                  	|   	|   	|   	|   	|   	|
+| P_ESG_00       	| P_ESG_10   	| Percentual de DPPs com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial.     	|   	|   	|   	|   	|   	|
+| P_LIXO_00      	| P_LIXO_10  	| Percentual de DPPs com lixo coletado por serviço de limpeza.                                                                                 	|   	|   	|   	|   	|   	|
+| RNMPr_00       	| RNMPr_10   	| Rendimento nominal mensal dos Responsáveis por Domicílio                                                                                     	|   	|   	|   	|   	|   	|
+| V1_00          	| V1_10      	| Percentual de Domicílios particulares precários                                                                                              	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de domicílios particulares sem abastecimento de água da rede geral                                                                	|   	|   	|   	|   	|   	|
+| V3_00          	| V3_10      	| Percentual de domicílios particulares com banheiro ou sanitário sem esgotamento sanitário via rede geral de esgoto, pluvial ou fossa séptica 	|   	|   	|   	|   	|   	|
+| V4_00          	| V4_10      	| Percentual de DPPs sem banheiro                                                                                                              	|   	|   	|   	|   	|   	|
+| V5_00          	| V5_10      	| Percentual de DPPs com lixo não coletado                                                                                                     	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de DPPs sem energia elétrica                                                                                                      	|   	|   	|   	|   	|   	|
+| V7_00          	| V7_10      	| Percentual de DPPs alugados                                                                                                                  	|   	|   	|   	|   	|   	|
+| V8_00          	| V8_10      	| Percentual de DPPs com mais 4 moradores                                                                                                      	|   	|   	|   	|   	|   	|
+| V21_00         	| V21_10     	| Percentual de responsáveis por DPPs sem rendimento nominal mensal                                                                            	|   	|   	|   	|   	|   	|
+| V22_00         	| V22_10     	| Percentual de responsáveis por DPPs com rendimento nominal mensal de até 3 salários mínimos                                                  	|   	|   	|   	|   	|   	|
+| P_ALFAC_00     	| P_ALFAC_10 	| Percentual Chefe de Familia Alfabetizado                                                                                                     	|   	|   	|   	|   	|   	|
+| P_ALFAP_00     	| P_ALFAP_10 	| Percentual Pessoas alfabetizadas                                                                                                             	|   	|   	|   	|   	|   	|
+| -              	| -          	| Pessoas de raça branca                                                                                                                       	|   	|   	|   	|   	|   	|
+| -              	| -          	| Pessoas de raça preta                                                                                                                        	|   	|   	|   	|   	|   	|
+| -              	| -          	| Pessoas de raça Amarela                                                                                                                      	|   	|   	|   	|   	|   	|
+| -              	| -          	| Pessoas de raça Parda                                                                                                                        	|   	|   	|   	|   	|   	|
+| -              	| -          	| Pessoas de raça Indígena                                                                                                                     	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento até 1/8 Salário Mínimo (954,00)                                                                                     	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 1/8 a 1/4 Salário Mínimo (954,00)                                                                                	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 1/4 a 1/2 Salário Mínimo (954,00)                                                                                	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 1/2 a 1 Salário Mínimo (954,00)                                                                                  	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 1 a 2 Salários Mínimos (954,00)                                                                                  	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 2 a 3 Salários Mínimos (954,00)                                                                                  	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento de 3 a 5 Salários Mínimos (954,00)                                                                                  	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento 5 a 10 Salários Mínimos (954,00)                                                                                    	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual de Rendimento 10 ou mais Salários Mínimos (954,00)                                                                                	|   	|   	|   	|   	|   	|
+| -              	| -          	| Percentual sem rendimento                                                                                                                    	|   	|   	|   	|   	|   	|
+| RPC_00         	| RPC_10     	| Renda per capita (apenas dos responsáveis pela família)                                                                                      	|   	|   	|   	|   	|   	|
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMT
-Y0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMj
+c4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5
+MDc5Ml19
 -->
