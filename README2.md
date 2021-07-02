@@ -94,8 +94,11 @@ Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Pl
 
 ## Informações Geradas no R
 
-### Gráfico 
+
+### Gráfico 01
 <img src="https://i.ibb.co/XYKTcvZ/Rplot01-caterorias.png" alt="Rplot01-caterorias" border="0">
+
+### Gráfico 02
 
 ### Gráfico XXXXX
 <img src="https://i.ibb.co/w7xfr7s/Rplot01.png" alt="Rplot01" border="0">
@@ -109,9 +112,11 @@ Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Pl
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk5MTc0MzAsNzM3NTk2NjM5LDkyMD
-Y4NzM2OSwtOTc1NDQxNjk3LDE1MjA5ODA3MjEsNjY1NDM1MTc1
-LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1LDE2NDI5NDk3NTQsMT
-EzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
+eyJoaXN0b3J5IjpbMTQ2ODQwMzQ1MSw3Mzc1OTY2MzksOTIwNj
+g3MzY5LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0MzUxNzUs
+LTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMT
+MxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
 -->
