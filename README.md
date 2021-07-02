@@ -153,10 +153,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 **Mapa de Cluster Kmeans**
 <img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
+[Pagina ](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README2.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzI3NTE2MywxNzg3NzI4MTM3LDk1Mz
+eyJoaXN0b3J5IjpbMTI5Mjg5ODY0MCwxNzg3NzI4MTM3LDk1Mz
 Y5MzAyMCwxMTcyNjY1NTIsNjk0MDg0NzEyLC0xOTE5NzE2NDY4
 LDQ3ODQ1MDEwOCwtMTEyODYzNjUxMiwyODAzMTU5NjEsLTI0Mz
 Q3NzM4MiwzMzcwMTgzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2
