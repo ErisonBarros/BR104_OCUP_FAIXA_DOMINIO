@@ -98,6 +98,13 @@ Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Pl
 ### Gráfico 01
 <img src="https://i.ibb.co/XYKTcvZ/Rplot01-caterorias.png" alt="Rplot01-caterorias" border="0">
 
+01.Floresta
+02.Formação Natural não Florestal
+03.Agropecuária
+04.Áreas não Vegetadas
+05. Corpos d' água
+06.Ocupação sobre a faixa de Domínio
+
 ### Gráfico 02
 
 Ano: 2000          -          2010         -               2018
@@ -108,14 +115,19 @@ Ano: 2000          -          2010         -               2018
 03.Agropecuária
 04.Áreas não Vegetadas
 05. Corpos d' água
-06.
+06.Ocupação sobre a faixa de Domínio
 
 
 ### Gráfico 03
 
 <img src="https://i.ibb.co/w7xfr7s/Rplot01.png" alt="Rplot01" border="0">
 
-
+01.Floresta
+02.Formação Natural não Florestal
+03.Agropecuária
+04.Áreas não Vegetadas
+05. Corpos d' água
+06.Ocupação sobre a faixa de Domínio
 
 
 
@@ -127,8 +139,8 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzY2NjMyNSwxMzc2MzE3NDUyLDczNz
-U5NjYzOSw5MjA2ODczNjksLTk3NTQ0MTY5NywxNTIwOTgwNzIx
-LDY2NTQzNTE3NSwtMTkwNzQzNDAwMywtMTI3ODkyODEzNSwxNj
-QyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbMTE2NzE5OTQ3LDEzNzYzMTc0NTIsNzM3NT
+k2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5ODA3MjEs
+NjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1LDE2ND
+I5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
 -->
