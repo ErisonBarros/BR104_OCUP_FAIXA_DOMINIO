@@ -103,11 +103,11 @@ Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Pl
 Ano: 2000          -          2010         -               2018
 <img src="https://i.ibb.co/2k8Zmkw/Rplot05.png" alt="Rplot05" border="0">
 
-01.
-02.
-03.
-04.
-05.
+01.Floresta
+02.Formação Natural não Florestal
+03.Agropecuária
+04.Áreas não Vegetadas
+05. Corpos d' água
 06.
 
 
@@ -127,8 +127,8 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjMxNzQ1Miw3Mzc1OTY2MzksOTIwNj
-g3MzY5LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0MzUxNzUs
-LTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMT
-MxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbLTUzMzY2NjMyNSwxMzc2MzE3NDUyLDczNz
+U5NjYzOSw5MjA2ODczNjksLTk3NTQ0MTY5NywxNTIwOTgwNzIx
+LDY2NTQzNTE3NSwtMTkwNzQzNDAwMywtMTI3ODkyODEzNSwxNj
+QyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
 -->
