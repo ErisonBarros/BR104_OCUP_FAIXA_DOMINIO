@@ -87,6 +87,10 @@ As variáveis Analisadas de forma raster:
 
 # Analise do Uso e Ocupação do Solo
 
+Analise 
+
+<img src="https://i.ibb.co/b6VfDXP/Uso-2000.png" alt="Uso-2000" border="0">
+
 
 
 
@@ -98,8 +102,8 @@ As variáveis Analisadas de forma raster:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNDQzMTMxLC05NzU0NDE2OTcsMTUyMD
-k4MDcyMSw2NjU0MzUxNzUsLTE5MDc0MzQwMDMsLTEyNzg5Mjgx
-MzUsMTY0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX
-0=
+eyJoaXN0b3J5IjpbLTEyOTc4MzM5MjMsLTk3NTQ0MTY5NywxNT
+IwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNzQzNDAwMywtMTI3ODky
+ODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OT
+JdfQ==
 -->
