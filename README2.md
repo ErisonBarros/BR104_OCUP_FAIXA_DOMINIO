@@ -129,6 +129,8 @@ Ano: 2000          -          2010         -               2018
 05. Corpos d' água
 06.Ocupação sobre a faixa de Domínio
 
+### Gráfico 04
+<img src="https://i.ibb.co/p1GH212/Ganhos.png" alt="Ganhos" border="0">
 
 
 
@@ -139,7 +141,7 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzE5OTQ3LDEzNzYzMTc0NTIsNzM3NT
+eyJoaXN0b3J5IjpbOTY2NjU4MTY3LDEzNzYzMTc0NTIsNzM3NT
 k2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5ODA3MjEs
 NjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1LDE2ND
 I5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
