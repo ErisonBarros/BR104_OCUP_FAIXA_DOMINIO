@@ -85,7 +85,9 @@ As variáveis Analisadas de forma raster:
 | -              	| -          	| Percentual sem rendimento                                                                                                                    	|   	|   	|   	|   	|   	|
 | RPC_00         	| RPC_10     	| Renda per capita (apenas dos responsáveis pela família)                                                                                      	|   	|   	|   	|   	|   	|
 
-# An
+# Analise do Uso e Ocupação do Solo
+
+
 
 
 
@@ -94,7 +96,7 @@ As variáveis Analisadas de forma raster:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjY5NTkxOSwxNTIwOTgwNzIxLDY2NT
+eyJoaXN0b3J5IjpbLTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NT
 QzNTE3NSwtMTkwNzQzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5
 NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
 -->
