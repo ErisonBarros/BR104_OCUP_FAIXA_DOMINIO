@@ -88,8 +88,9 @@ As variáveis Analisadas de forma raster:
 # Analise do Uso e Ocupação do Solo
 
 Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Plugin Molusce como pode ser visto pela Tela  do Programa.
+## 
 
-##
+## 3. Matriz de Transição
 
 <img src="https://i.ibb.co/b6VfDXP/Uso-2000.png" alt="Uso-2000" border="0">
 
@@ -143,9 +144,9 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUxNzI3NDksOTY2NjU4MTY3LDEzNz
-YzMTc0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3
-LDE1MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMj
-c4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5
-MDc5Ml19
+eyJoaXN0b3J5IjpbNDU5NDA4OTQsOTY2NjU4MTY3LDEzNzYzMT
+c0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1
+MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OT
+I4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5
+Ml19
 -->
