@@ -96,6 +96,7 @@ A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizad
 
 **Imagem de 2010.**
 
+<img src="https://i.ibb.co/QFHjLpg/IMAGEM-DE-2010.png" alt="IMAGEM-DE-2010" border="0">
 
 ##  2. Matriz de Correlação de Pearson's
 ## 3. Matriz de Transição
@@ -152,9 +153,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NzY1MTA3LC02Nzk1NTkyNDgsMTk2OT
-I4ODA3Myw5NjY2NTgxNjcsMTM3NjMxNzQ1Miw3Mzc1OTY2Mzks
-OTIwNjg3MzY5LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0Mz
-UxNzUsLTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1
-NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbMTI5NjY4MDQ2NCw5NjU3NjUxMDcsLTY3OT
+U1OTI0OCwxOTY5Mjg4MDczLDk2NjY1ODE2NywxMzc2MzE3NDUy
+LDczNzU5NjYzOSw5MjA2ODczNjksLTk3NTQ0MTY5NywxNTIwOT
+gwNzIxLDY2NTQzNTE3NSwtMTkwNzQzNDAwMywtMTI3ODkyODEz
+NSwxNjQyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMjEyOTA3OTJdfQ
+==
 -->
