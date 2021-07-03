@@ -89,6 +89,7 @@ As variáveis Analisadas de forma raster:
 
 Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Plugin Molusce como pode ser visto pela Tela  do Programa.
 ## 1.  Entrada dos Dados
+A entrada de 
 ##  2. Matriz de Correlação de Pearson's
 ## 3. Matriz de Transição
 
@@ -144,9 +145,9 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI4ODA3Myw5NjY2NTgxNjcsMTM3Nj
-MxNzQ1Miw3Mzc1OTY2MzksOTIwNjg3MzY5LC05NzU0NDE2OTcs
-MTUyMDk4MDcyMSw2NjU0MzUxNzUsLTE5MDc0MzQwMDMsLTEyNz
-g5MjgxMzUsMTY0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkw
-NzkyXX0=
+eyJoaXN0b3J5IjpbMTAwNjMwNDY0NCwxOTY5Mjg4MDczLDk2Nj
+Y1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjks
+LTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNz
+QzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1
+MDEsLTIxMjEyOTA3OTJdfQ==
 -->
