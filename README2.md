@@ -92,7 +92,7 @@ Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Pl
 A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizada do uso e ocupação do solo obtidas pelo Mapbiomas.
 **Imagem de 2000.**
 
-
+<img src="https://i.ibb.co/jJ9GvSS/IMAGEM-DE-2000.png" alt="IMAGEM-DE-2000" border="0">
 
 **Imagem de 2010.**
 
@@ -152,9 +152,9 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTU1OTI0OCwxOTY5Mjg4MDczLDk2Nj
-Y1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjks
-LTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNz
-QzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1
-MDEsLTIxMjEyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbOTY1NzY1MTA3LC02Nzk1NTkyNDgsMTk2OT
+I4ODA3Myw5NjY2NTgxNjcsMTM3NjMxNzQ1Miw3Mzc1OTY2Mzks
+OTIwNjg3MzY5LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0Mz
+UxNzUsLTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1
+NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
 -->
