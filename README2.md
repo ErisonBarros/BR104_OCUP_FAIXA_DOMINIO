@@ -89,7 +89,10 @@ As variáveis Analisadas de forma raster:
 
 Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Plugin Molusce como pode ser visto pela Tela  do Programa.
 ## 1.  Entrada dos Dados
-A entrada de dados foi constituída das imagens do ano de 2000 e 2010 do uso e ocupação do solo ob
+A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizada do uso e ocupação do solo obtidas pelo Mapbiomas.
+**Imagem de 2000.**
+
+
 ##  2. Matriz de Correlação de Pearson's
 ## 3. Matriz de Transição
 
@@ -145,9 +148,9 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDE1ODEyNywxOTY5Mjg4MDczLDk2Nj
-Y1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjks
-LTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNz
-QzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1
-MDEsLTIxMjEyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzMwNTk2MjQsMTk2OTI4ODA3Myw5Nj
+Y2NTgxNjcsMTM3NjMxNzQ1Miw3Mzc1OTY2MzksOTIwNjg3MzY5
+LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0MzUxNzUsLTE5MD
+c0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMTMxNTU5
+NTAxLC0yMTIxMjkwNzkyXX0=
 -->
