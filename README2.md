@@ -107,6 +107,8 @@ A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizad
 06.Ocupação sobre a faixa de Domínio
 
 ##  2. Matriz de Correlação de Pearson's
+
+
 ## 3. Matriz de Transição
 
 <img src="https://i.ibb.co/b6VfDXP/Uso-2000.png" alt="Uso-2000" border="0">
@@ -161,10 +163,9 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDEzMzEzMDksOTY1NzY1MTA3LC02Nz
-k1NTkyNDgsMTk2OTI4ODA3Myw5NjY2NTgxNjcsMTM3NjMxNzQ1
-Miw3Mzc1OTY2MzksOTIwNjg3MzY5LC05NzU0NDE2OTcsMTUyMD
-k4MDcyMSw2NjU0MzUxNzUsLTE5MDc0MzQwMDMsLTEyNzg5Mjgx
-MzUsMTY0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMTIxMjkwNzkyXX
-0=
+eyJoaXN0b3J5IjpbNTI3MjMwMTM1LDk2NTc2NTEwNywtNjc5NT
+U5MjQ4LDE5NjkyODgwNzMsOTY2NjU4MTY3LDEzNzYzMTc0NTIs
+NzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5OD
+A3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1
+LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
 -->
