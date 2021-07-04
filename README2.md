@@ -99,12 +99,13 @@ A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizad
 <img src="https://i.ibb.co/QFHjLpg/IMAGEM-DE-2010.png" alt="IMAGEM-DE-2010" border="0">
 
 ### Normalização dos Pixels da Imagem de Uso e Ocupação
-01.Floresta
-02.Formação Natural não Florestal
-03.Agropecuária
-04.Áreas não Vegetadas
-05. Corpos d' água
-06.Ocupação sobre a faixa de Domínio
+Os pixels são normalizados de 1 a 6 onde:
+01 - Floresta
+02 -Formação Natural não Florestal
+03 - Agropecuária
+04 -Áreas não Vegetadas
+05 -Corpos d' água
+06 -Ocupação sobre a faixa de Domínio
 
 ##  2. Matriz de Correlação de Pearson's
 
@@ -163,9 +164,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MjMwMTM1LDk2NTc2NTEwNywtNjc5NT
-U5MjQ4LDE5NjkyODgwNzMsOTY2NjU4MTY3LDEzNzYzMTc0NTIs
-NzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5OD
-A3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1
-LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
+eyJoaXN0b3J5IjpbNzMyNzk5NTQ1LDUyNzIzMDEzNSw5NjU3Nj
+UxMDcsLTY3OTU1OTI0OCwxOTY5Mjg4MDczLDk2NjY1ODE2Nywx
+Mzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjksLTk3NTQ0MT
+Y5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNzQzNDAwMywt
+MTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMj
+EyOTA3OTJdfQ==
 -->
