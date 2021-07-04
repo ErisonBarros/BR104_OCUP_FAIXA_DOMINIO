@@ -112,6 +112,7 @@ Os pixels são normalizados de 1 a 6 onde:
 <img src="https://i.ibb.co/QFHjLpg/IMAGEM-DE-2010.png" alt="IMAGEM-DE-2010" border="0">
 
 ##  2. Matriz de Correlação de Pearson's
+No Rstudio e no software Qgis geramos a matriz de correlação das variáveis.
 
 
 ## 3. Matriz de Transição
@@ -171,10 +172,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTgyNTIxNywxMzM2NDk0NDAxLDUyNz
-IzMDEzNSw5NjU3NjUxMDcsLTY3OTU1OTI0OCwxOTY5Mjg4MDcz
-LDk2NjY1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2OD
-czNjksLTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwt
-MTkwNzQzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMz
-E1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbMjAyNzIxMzc1MywtNjk1ODI1MjE3LDEzMz
+Y0OTQ0MDEsNTI3MjMwMTM1LDk2NTc2NTEwNywtNjc5NTU5MjQ4
+LDE5NjkyODgwNzMsOTY2NjU4MTY3LDEzNzYzMTc0NTIsNzM3NT
+k2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5ODA3MjEs
+NjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1LDE2ND
+I5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
 -->
