@@ -36,8 +36,6 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 O Índice de Vulnerabilidade Social (**IVS**) é um indicador que permite aos governos um detalhamento sobre as condições de vida de todas as camadas socioeconômicas do país, identificando àquelas que se encontram em vulnerabilidade e risco social.
 
-
-
 ## Como Calcular o IVS
 <img src="https://i.ibb.co/tPrMb98/Como-calcular-o-IVS.jpg" alt="Como-calcular-o-IVS" border="0">
 
@@ -46,7 +44,8 @@ O Índice de Vulnerabilidade Social (**IVS**) é um indicador que permite aos go
 ### Como ler o IVS
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
 
-#Analise Exploratória dos Dados Espacial " GEODA"
+
+## Analise Exploratória dos Dados Espacial " GEODA"
 ### Localização das Ocupações 
 
 <img src="https://i.ibb.co/9vNYk7X/OCUP-BR104-DATASET-01.png" alt="OCUP-BR104-DATASET-01" border="0">
@@ -167,11 +166,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzE2NTU4NiwtMTYzNzE4MjkwOCwtMz
-Q0OTM3OTgyLDE3ODc3MjgxMzcsOTUzNjkzMDIwLDExNzI2NjU1
-Miw2OTQwODQ3MTIsLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMT
-I4NjM2NTEyLDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMw
-OCwtMzg1MTczODQwLC0xODk2NjYyODYyLC0xMjI0MjQxMDkyLD
-E2MDE0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0
-MzI3XX0=
+eyJoaXN0b3J5IjpbLTE3MTgyMDg2MTksLTE2MzcxODI5MDgsLT
+M0NDkzNzk4MiwxNzg3NzI4MTM3LDk1MzY5MzAyMCwxMTcyNjY1
+NTIsNjk0MDg0NzEyLC0xOTE5NzE2NDY4LDQ3ODQ1MDEwOCwtMT
+EyODYzNjUxMiwyODAzMTU5NjEsLTI0MzQ3NzM4MiwzMzcwMTgz
+MDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5Mi
+wxNjAxNDE0NTMsMTI5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQw
+NDMyN119
 -->
