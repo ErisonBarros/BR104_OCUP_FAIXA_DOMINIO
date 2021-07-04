@@ -119,9 +119,9 @@ Os pixels são normalizados de 1 a 6 onde:
 <img src="https://i.ibb.co/b6VfDXP/Uso-2000.png" alt="Uso-2000" border="0">
 
 Com o uso do Programa Dinâmica EGO obtemos um relatório completo 
-da Matriz de Transi
-
+da Matriz de Transição.
 <img src="https://i.ibb.co/QMK1HFZ/Analise-da-Matriz-de-transi-o.jpg" alt="Analise-da-Matriz-de-transi-o" border="0">
+
 ## Informações Geradas no R
 
 
@@ -171,10 +171,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg2Njg5MzgsMTMzNjQ5NDQwMSw1Mj
-cyMzAxMzUsOTY1NzY1MTA3LC02Nzk1NTkyNDgsMTk2OTI4ODA3
-Myw5NjY2NTgxNjcsMTM3NjMxNzQ1Miw3Mzc1OTY2MzksOTIwNj
-g3MzY5LC05NzU0NDE2OTcsMTUyMDk4MDcyMSw2NjU0MzUxNzUs
-LTE5MDc0MzQwMDMsLTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMT
-MxNTU5NTAxLC0yMTIxMjkwNzkyXX0=
+eyJoaXN0b3J5IjpbLTY5NTgyNTIxNywxMzM2NDk0NDAxLDUyNz
+IzMDEzNSw5NjU3NjUxMDcsLTY3OTU1OTI0OCwxOTY5Mjg4MDcz
+LDk2NjY1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2OD
+czNjksLTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwt
+MTkwNzQzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMz
+E1NTk1MDEsLTIxMjEyOTA3OTJdfQ==
 -->
