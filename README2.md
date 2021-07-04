@@ -117,7 +117,7 @@ No Rstudio e no software Qgis geramos a matriz de correlação das variáveis.
 <img src="https://i.ibb.co/prZt324/matriz-de-Correla-o.png" alt="matriz-de-Correla-o" border="0">
 
 ### Gráfico da Matriz de Correlação
-<img src="https://i.ibb.co/xG1jCrj/Matriz-de-Correla-o.png" alt="Matriz-de-Correla-o" border="0">
+<img src="https://i.ibb.co/w4rFH5Y/Matriz-de-Correla-o.png" alt="Matriz-de-Correla-o" border="0">
 
 
 ## 3. Matriz de Transição
@@ -177,11 +177,11 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjE2NTgxLC04MzE0NjAzNTAsMjAyNz
-IxMzc1MywtNjk1ODI1MjE3LDEzMzY0OTQ0MDEsNTI3MjMwMTM1
-LDk2NTc2NTEwNywtNjc5NTU5MjQ4LDE5NjkyODgwNzMsOTY2Nj
-U4MTY3LDEzNzYzMTc0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwt
-OTc1NDQxNjk3LDE1MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3ND
-M0MDAzLC0xMjc4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUw
-MV19
+eyJoaXN0b3J5IjpbLTIwMTk5NTYxOSwtODMxNDYwMzUwLDIwMj
+cyMTM3NTMsLTY5NTgyNTIxNywxMzM2NDk0NDAxLDUyNzIzMDEz
+NSw5NjU3NjUxMDcsLTY3OTU1OTI0OCwxOTY5Mjg4MDczLDk2Nj
+Y1ODE2NywxMzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjks
+LTk3NTQ0MTY5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNz
+QzNDAwMywtMTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1
+MDFdfQ==
 -->
