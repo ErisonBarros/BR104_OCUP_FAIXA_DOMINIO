@@ -10,7 +10,7 @@ Tecnologias
 
 
 - [Análise Exploratória dos Dados](#id-section1)
-		-  [Tratamento dos Dados](#id-section2)
+-  [Tratamento dos Dados](#id-section2)
 
 - [Tratamento dos Dados](#id-section2)
 
@@ -33,6 +33,7 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 [Mapa Dinamicico ](https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing)
 
 ## **Interpretação do IVS**
+
 
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
 
@@ -157,11 +158,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDkzNzk4MiwxNzg3NzI4MTM3LDk1Mz
-Y5MzAyMCwxMTcyNjY1NTIsNjk0MDg0NzEyLC0xOTE5NzE2NDY4
-LDQ3ODQ1MDEwOCwtMTEyODYzNjUxMiwyODAzMTU5NjEsLTI0Mz
-Q3NzM4MiwzMzcwMTgzMDgsLTM4NTE3Mzg0MCwtMTg5NjY2Mjg2
-MiwtMTIyNDI0MTA5MiwxNjAxNDE0NTMsMTI5NTIyNzcyMywxMz
-c0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEzMTIyLDEwNjk5Nzc1
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzcxODI5MDgsLTM0NDkzNzk4MiwxNz
+g3NzI4MTM3LDk1MzY5MzAyMCwxMTcyNjY1NTIsNjk0MDg0NzEy
+LC0xOTE5NzE2NDY4LDQ3ODQ1MDEwOCwtMTEyODYzNjUxMiwyOD
+AzMTU5NjEsLTI0MzQ3NzM4MiwzMzcwMTgzMDgsLTM4NTE3Mzg0
+MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0NTMsMT
+I5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEz
+MTIyXX0=
 -->
