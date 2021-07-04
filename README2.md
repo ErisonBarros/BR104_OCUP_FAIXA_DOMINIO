@@ -115,6 +115,8 @@ Os pixels são normalizados de 1 a 6 onde:
 No Rstudio e no software Qgis geramos a matriz de correlação das variáveis.
 
 
+
+
 ## 3. Matriz de Transição
 
 <img src="https://i.ibb.co/b6VfDXP/Uso-2000.png" alt="Uso-2000" border="0">
@@ -172,10 +174,11 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzIxMzc1MywtNjk1ODI1MjE3LDEzMz
-Y0OTQ0MDEsNTI3MjMwMTM1LDk2NTc2NTEwNywtNjc5NTU5MjQ4
-LDE5NjkyODgwNzMsOTY2NjU4MTY3LDEzNzYzMTc0NTIsNzM3NT
-k2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3LDE1MjA5ODA3MjEs
-NjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMjc4OTI4MTM1LDE2ND
-I5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5MDc5Ml19
+eyJoaXN0b3J5IjpbLTIwNTc4NDgwNDMsMjAyNzIxMzc1MywtNj
+k1ODI1MjE3LDEzMzY0OTQ0MDEsNTI3MjMwMTM1LDk2NTc2NTEw
+NywtNjc5NTU5MjQ4LDE5NjkyODgwNzMsOTY2NjU4MTY3LDEzNz
+YzMTc0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1NDQxNjk3
+LDE1MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAzLC0xMj
+c4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMjEyMTI5
+MDc5Ml19
 -->
