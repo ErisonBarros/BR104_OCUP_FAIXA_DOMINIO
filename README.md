@@ -34,7 +34,10 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 ## **Interpretação do IVS**
 
+### Como Calcular o IVS
+<img src="https://i.ibb.co/tPrMb98/Como-calcular-o-IVS.jpg" alt="Como-calcular-o-IVS" border="0">
 
+### Como ler o IVS
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
 
 #Analise Exploratória dos Dados Espacial " GEODA"
@@ -158,11 +161,11 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcxODI5MDgsLTM0NDkzNzk4MiwxNz
-g3NzI4MTM3LDk1MzY5MzAyMCwxMTcyNjY1NTIsNjk0MDg0NzEy
-LC0xOTE5NzE2NDY4LDQ3ODQ1MDEwOCwtMTEyODYzNjUxMiwyOD
-AzMTU5NjEsLTI0MzQ3NzM4MiwzMzcwMTgzMDgsLTM4NTE3Mzg0
-MCwtMTg5NjY2Mjg2MiwtMTIyNDI0MTA5MiwxNjAxNDE0NTMsMT
-I5NTIyNzcyMywxMzc0NDgxOTk0LDk3NTQwNDMyNywxMjQ3NjEz
-MTIyXX0=
+eyJoaXN0b3J5IjpbMTc5OTk0MzQyNywtMTYzNzE4MjkwOCwtMz
+Q0OTM3OTgyLDE3ODc3MjgxMzcsOTUzNjkzMDIwLDExNzI2NjU1
+Miw2OTQwODQ3MTIsLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMT
+I4NjM2NTEyLDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMw
+OCwtMzg1MTczODQwLC0xODk2NjYyODYyLC0xMjI0MjQxMDkyLD
+E2MDE0MTQ1MywxMjk1MjI3NzIzLDEzNzQ0ODE5OTQsOTc1NDA0
+MzI3XX0=
 -->
