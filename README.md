@@ -36,10 +36,12 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 O Índice de Vulnerabilidade Social (**IVS**) é um indicador que permite aos governos um detalhamento sobre as condições de vida de todas as camadas socioeconômicas do país, identificando àquelas que se encontram em vulnerabilidade e risco social.
 
-## **Interpretação do IVS**
+
 
 ## Como Calcular o IVS
 <img src="https://i.ibb.co/tPrMb98/Como-calcular-o-IVS.jpg" alt="Como-calcular-o-IVS" border="0">
+
+## **Interpretação do IVS**
 
 ### Como ler o IVS
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
@@ -165,7 +167,7 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDAzMjk0NCwtMTYzNzE4MjkwOCwtMz
+eyJoaXN0b3J5IjpbLTUwMzE2NTU4NiwtMTYzNzE4MjkwOCwtMz
 Q0OTM3OTgyLDE3ODc3MjgxMzcsOTUzNjkzMDIwLDExNzI2NjU1
 Miw2OTQwODQ3MTIsLTE5MTk3MTY0NjgsNDc4NDUwMTA4LC0xMT
 I4NjM2NTEyLDI4MDMxNTk2MSwtMjQzNDc3MzgyLDMzNzAxODMw
