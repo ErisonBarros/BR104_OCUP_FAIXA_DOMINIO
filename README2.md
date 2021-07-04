@@ -90,6 +90,18 @@ As variáveis Analisadas de forma raster:
 Análise da ocupação e do  uso do solo foi realizado pelo Qgis com o Uso do Plugin Molusce como pode ser visto pela Tela  do Programa.
 ## 1.  Entrada dos Dados
 A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizada do uso e ocupação do solo obtidas pelo Mapbiomas.
+
+### Normalização dos Pixeis da Imagem de Uso e Ocupação do Solo do Mapbiomas.
+
+Os pixels são normalizados de 1 a 6 onde:
+01 - Floresta
+02 -Formação Natural não Florestal
+03 - Agropecuária
+04 -Áreas não Vegetadas
+05 -Corpos d' água
+06 -Ocupação sobre a faixa de Domínio
+
+### Imagens  da área de influencia sobre a 
 **Imagem de 2000.**
 
 <img src="https://i.ibb.co/jJ9GvSS/IMAGEM-DE-2000.png" alt="IMAGEM-DE-2000" border="0">
@@ -98,14 +110,8 @@ A entrada de dados foi constituída das imagens do ano de 2000 e 2010 normalizad
 
 <img src="https://i.ibb.co/QFHjLpg/IMAGEM-DE-2010.png" alt="IMAGEM-DE-2010" border="0">
 
-### Normalização dos Pixels da Imagem de Uso e Ocupação
-Os pixels são normalizados de 1 a 6 onde:
-01 - Floresta
-02 -Formação Natural não Florestal
-03 - Agropecuária
-04 -Áreas não Vegetadas
-05 -Corpos d' água
-06 -Ocupação sobre a faixa de Domínio
+
+
 
 ##  2. Matriz de Correlação de Pearson's
 
@@ -164,10 +170,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNzk5NTQ1LDUyNzIzMDEzNSw5NjU3Nj
-UxMDcsLTY3OTU1OTI0OCwxOTY5Mjg4MDczLDk2NjY1ODE2Nywx
-Mzc2MzE3NDUyLDczNzU5NjYzOSw5MjA2ODczNjksLTk3NTQ0MT
-Y5NywxNTIwOTgwNzIxLDY2NTQzNTE3NSwtMTkwNzQzNDAwMywt
-MTI3ODkyODEzNSwxNjQyOTQ5NzU0LDExMzE1NTk1MDEsLTIxMj
-EyOTA3OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzA4NTE3NTgsNTI3MjMwMTM1LDk2NT
+c2NTEwNywtNjc5NTU5MjQ4LDE5NjkyODgwNzMsOTY2NjU4MTY3
+LDEzNzYzMTc0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1ND
+QxNjk3LDE1MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAz
+LC0xMjc4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMj
+EyMTI5MDc5Ml19
 -->
