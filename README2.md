@@ -101,7 +101,8 @@ Os pixels são normalizados de 1 a 6 onde:
 05 -Corpos d' água
 06 -Ocupação sobre a faixa de Domínio
 
-### Imagens  da área de influencia sobre a 
+### Imagem Normalizada  da área de influencia sobre a base cartográfica. 
+
 **Imagem de 2000.**
 
 <img src="https://i.ibb.co/jJ9GvSS/IMAGEM-DE-2000.png" alt="IMAGEM-DE-2000" border="0">
@@ -109,9 +110,6 @@ Os pixels são normalizados de 1 a 6 onde:
 **Imagem de 2010.**
 
 <img src="https://i.ibb.co/QFHjLpg/IMAGEM-DE-2010.png" alt="IMAGEM-DE-2010" border="0">
-
-
-
 
 ##  2. Matriz de Correlação de Pearson's
 
@@ -170,10 +168,10 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA4NTE3NTgsNTI3MjMwMTM1LDk2NT
-c2NTEwNywtNjc5NTU5MjQ4LDE5NjkyODgwNzMsOTY2NjU4MTY3
-LDEzNzYzMTc0NTIsNzM3NTk2NjM5LDkyMDY4NzM2OSwtOTc1ND
-QxNjk3LDE1MjA5ODA3MjEsNjY1NDM1MTc1LC0xOTA3NDM0MDAz
-LC0xMjc4OTI4MTM1LDE2NDI5NDk3NTQsMTEzMTU1OTUwMSwtMj
-EyMTI5MDc5Ml19
+eyJoaXN0b3J5IjpbMTMzNjQ5NDQwMSw1MjcyMzAxMzUsOTY1Nz
+Y1MTA3LC02Nzk1NTkyNDgsMTk2OTI4ODA3Myw5NjY2NTgxNjcs
+MTM3NjMxNzQ1Miw3Mzc1OTY2MzksOTIwNjg3MzY5LC05NzU0ND
+E2OTcsMTUyMDk4MDcyMSw2NjU0MzUxNzUsLTE5MDc0MzQwMDMs
+LTEyNzg5MjgxMzUsMTY0Mjk0OTc1NCwxMTMxNTU5NTAxLC0yMT
+IxMjkwNzkyXX0=
 -->
