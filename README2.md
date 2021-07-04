@@ -113,9 +113,10 @@ Os pixels são normalizados de 1 a 6 onde:
 
 ##  2. Matriz de Correlação de Pearson's
 No Rstudio e no software Qgis geramos a matriz de correlação das variáveis.
-### Matriz de Correlaç
+### Matriz de Correlação
 <img src="https://i.ibb.co/jJLsnmB/Matriz-de-Correla-o.png" alt="Matriz-de-Correla-o" border="0">
 
+### Gráfico da Matriz de Correlação
 <img src="https://i.ibb.co/xG1jCrj/Matriz-de-Correla-o.png" alt="Matriz-de-Correla-o" border="0">
 
 
@@ -176,7 +177,7 @@ Ano: 2000          -          2010         -               2018
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODQwMTI5MCwyMDI3MjEzNzUzLC02OT
+eyJoaXN0b3J5IjpbLTgzMTQ2MDM1MCwyMDI3MjEzNzUzLC02OT
 U4MjUyMTcsMTMzNjQ5NDQwMSw1MjcyMzAxMzUsOTY1NzY1MTA3
 LC02Nzk1NTkyNDgsMTk2OTI4ODA3Myw5NjY2NTgxNjcsMTM3Nj
 MxNzQ1Miw3Mzc1OTY2MzksOTIwNjg3MzY5LC05NzU0NDE2OTcs
