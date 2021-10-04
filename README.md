@@ -62,6 +62,7 @@ O Índice de Vulnerabilidade Social (**IVS**) é um indicador que permite aos go
 https://i.ibb.co/wN0T2jM/correla-o.jpg
 
 ### Estatísticas Descritivas da variável
+
 ```markdown
 | ocup_2010 	| IVS_REN_10     	| Dens_hab       	| IVS_INF_10        	| Pop_Total      	| URB_RURAL      	| VTN_MED       	|              	|
 |-----------	|----------------	|----------------	|-------------------	|----------------	|----------------	|---------------	|--------------	|
@@ -72,6 +73,7 @@ https://i.ibb.co/wN0T2jM/correla-o.jpg
 |           	| 3rd Qu.:1.0000 	| 3rd Qu.:0.5210 	| 3rd Qu.:0.0097318 	| 3rd Qu.:0.2090 	| 3rd Qu.:314912 	| 3rd Qu.:1.000 	| 3rd Qu.:5105 	|
 |           	| Max.   :1.0000 	| Max.   :0.6370 	| Max.   :0.0188397 	| Max.   :0.3810 	| Max.   :314912 	| Max.   :1.000 	| Max.   :8363 	|
 ```
+
 Pelo comportamento do fenômeno como ocupação e não ocupação, usamos a regressão logística para verificarmos o comportamento das variaveis.
 
 # Análise de Regressão Logística
@@ -104,6 +106,7 @@ HISTOGRAMA DOS RESÍDUOS (OLS_RESIDU)
 
 **COMPARAÇÃO DE RESULTADOS**
 
+
 |               	| Regressão Simples 	| Regressão "Espacial Error"  	|
 |---------------	|-------------------	|-----------------------------	|
 | logLikelihood 	|  -274.077         	| 1372.915120                  	|
@@ -122,6 +125,7 @@ Space > Univariate Local Moran’s I > ERRS_RESIDU
 | Akaike InfoCriterion	|      560.154   	|       -2739.83              	|     -2737.56
 
 ## Conclusões 
+
 ### **Verificações da Dependência Espacial**
  - [ ] Verificou-se forte dependência espacial da variável densidades populacional e densidade de Domicílios.
  <img src="https://i.ibb.co/8bXKYSk/Densidade-Dom-cilios.png" alt="Densidade-Dom-cilios" border="0">
@@ -156,10 +160,13 @@ Verifica-se que nas regiões de travessia urbana temos  a grande número de ocor
 <img src="https://i.ibb.co/prBFJ2n/BILISA.jpg" alt="BILISA" border="0">
 
 ## Analise de Cluster
+
 **Configuração de Cluster**
+
 <img src="https://i.ibb.co/qsXjK5q/Cluster-KMeans-5.jpg" alt="Cluster-KMeans-5" border="0">
 
 **Mapa de Cluster Kmeans**
+
 <img src="https://i.ibb.co/0y052Pp/Cluster-Ocup-BR104-OF.png" alt="Cluster-Ocup-BR104-OF" border="0">
 
 [Página 2](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README2.md)
