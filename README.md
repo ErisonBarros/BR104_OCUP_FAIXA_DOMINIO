@@ -11,7 +11,7 @@ Tecnologias
 
 - [Análise Exploratória dos Dados](#id-section1)
 
--  [Análise Exploratória sobre a ótica  Espaco Temporal ](#id-section2)
+-  [Análise Exploratória sobre a ótica  Espaco Temporal ](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README2.md)
 
 - [Tratamento dos Dados](#id-section2)
 
