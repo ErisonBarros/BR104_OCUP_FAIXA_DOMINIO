@@ -13,7 +13,7 @@ Tecnologias
 
 - [Análise Exploratória sobre a ótica  Espaco Temporal ](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README2.md)
 
-- [Modelo LULC](#id-section2)
+- [Modelo LULC](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README3.md)
 
 - [Analise da LULC com a ferramenta Open land R](#id-section2)
 
