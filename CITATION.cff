@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Barros
+    given-names: Erison Rosa de Oliveira
+    orcid: https://orcid.org/0000-0003-4879-6880
+title: Interrelationships between Land Use and Land Cover (LULC) and Irregular Occupations on Highway Domain bands: a comparative analysis of different spatial configurations: Geo-spation Informatio Science
+version: 01
+date-released: 2021-11-13
