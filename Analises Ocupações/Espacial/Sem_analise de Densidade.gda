@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>OCUP_BR104_DATASET_01</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>ESRI Shapefile</type>
+                <path>Analise sem Densidade.shp</path>
+            </datasource>
+            <layername>OCUP_BR104_DATASET_01</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>id</var>
+                <var>Ocup_2000</var>
+                <var>Ocup_2010</var>
+                <var>Ocup_2018</var>
+                <var>xcoord</var>
+                <var>ycoord</var>
+                <var>NM_MU</var>
+                <var>CODMU</var>
+                <var>COD_1</var>
+                <var>COD_UF</var>
+                <var>UF</var>
+                <var>COD_2</var>
+                <var>ANO</var>
+                <var>IVS_2000</var>
+                <var>IVS_INF_00</var>
+                <var>IVS_CPH_00</var>
+                <var>IVS_REN_00</var>
+                <var>2010_ANO</var>
+                <var>IVS_2010</var>
+                <var>IVS_INF_10</var>
+                <var>IVS_CPH_10</var>
+                <var>IVS_REN_10</var>
+                <var>fid</var>
+                <var>ID_UNICO</var>
+                <var>nome_1KM</var>
+                <var>nome_5KM</var>
+                <var>nome_10KM</var>
+                <var>nome_50KM</var>
+                <var>nome_100KM</var>
+                <var>nome_500KM</var>
+                <var>QUADRANTE</var>
+                <var>MASC</var>
+                <var>FEM</var>
+                <var>POP</var>
+                <var>DOM_OCU</var>
+                <var>area</var>
+                <var>perimeter</var>
+                <var>URB_RURAL</var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries/>
+            <default_vars/>
+        </layer>
+    </layers>
+</project>
