@@ -6,7 +6,27 @@ Tecnologias
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
-# Sumário
+
+# INTERRELATIONSHIPS BETWEEN LAND USE AND LAND COVER (LULC) AND IRREGULAR OCCUPATIONS ON HIGHWAY DOMAIN BANDS: A COMPARATIVE ANALYSIS OF DIFFERENT SPATIAL CONFIGURATIONS
+
+## Universidade Federal de Pernambuco - UFPE
+### Center for Technology and Geosciences - CTG
+### Graduate Program in Civil Engineering
+----
+Collaborators:
+
+> Erison Rosa de Oliveira Barros (UFPE)  https://orcid.org/0000-0003-4879-6880
+
+> Maurício de O. Andrade (UFPE) https://orcid.org/0000-0002-7377-7668
+
+> Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
+
+---
+# ABSTRACT
+This study aims to assess changes in LULC land use along the BR-104 road corridor located in the rural region of Pernambuco, Brazil, using data from MAPBIOMAS and the Social Vulnerability Index (IVS) for the 2000-period period. 2010 and 2010-2018. The LULC maps were generated from MapBiomas classification data, standardized Social Vulnerability Index (IVS) maps for 2000 and 2010, and images from the PE3D Project, Population Density Data for the year 2000 and 2010. The extent of Spatial landscape changes occurring in different classes of LULC were accomplished through the cross-tabulation change matrix in the Molusce module in QGIS. The results indicate that areas with high population density and housing deficit tend to have a greater possibility of suffering irregular occupations over the domain strip. The conversion of urban and rural areas into lands of irregular occupation on the BR-104 domain strip is closely associated with the increase in human activities due to population density and the higher Social Vulnerability Index – IVS, as well as the variables associated with this index. The modeled LULC maps of irregular occupations over the 2018 right-of-way were cross-validated with the planimetric survey data of the BR-104 right-of-way carried out by DNIT. In order to identify which classes had the greatest changes in the period of analysis, and whether these classes tend to occur in areas classified as highly susceptible to occupation of the highway domain lanes. It was verified in the interval of ten years that there was a loss of 35.64 km² of agricultural area in the studied region, as well as almost 16.60 km² of irregular expansion of the urban area between 2000 and 2010. This last one expanded to places with high susceptibility to irregular occupation of the Strip.
+
+
+# SUMMARY
 
 
 - [Análise Exploratória dos Dados](#id-section1)
@@ -19,6 +39,8 @@ Tecnologias
 
 <div id='id-section1'/>
 
+# CONTENTS
+
 # Análise Exploratória dos Dados
 Realizou-se uma analise exploratória dos dados da ocorrência de ocupações irregulares sobre a faixa de domínio da BR-104. Usando os dados os dados IVS de 
 2010 e associado a valor de terra nua disponibilizados pelo INCRA, para verificar o comportamento do fenômeno.
@@ -29,8 +51,10 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 ## Tratamento dos Dados 
 
-### Analise Descritivas dos dados
+## Analise Descritivas dos dados
+
 [Pré-Processamento dos dados](https://colab.research.google.com/drive/1Tpocqpfj9O6F-5chcz2Z7EyjYUd-jVpe?usp=sharing) 
+
 
 
 <img src="https://i.ibb.co/9ty9S5J/thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o.jpg" alt="thumbnail-mid-1-DKN0-P84sq-RZl-kq0-HPb-Bl-Vs-WPMW97m5o" border="0">
@@ -51,12 +75,12 @@ Realizou-se uma analise exploratória dos dados da ocorrência de ocupações ir
 
 O Índice de Vulnerabilidade Social (**IVS**) é um indicador que permite aos governos um detalhamento sobre as condições de vida de todas as camadas socioeconômicas do país, identificando àquelas que se encontram em vulnerabilidade e risco social.
 
-## Como Calcular o IVS
+##  How to Calculate the IVS
 <img src="https://i.ibb.co/tPrMb98/Como-calcular-o-IVS.jpg" alt="Como-calcular-o-IVS" border="0">
 
-## **Interpretação do IVS**
+## IVS Interpretation**
 
-### Como ler o IVS
+### How to read the IVS
 <img src="https://i.ibb.co/3y5534q/Faixas-de-vulnerabilidade-social-6.jpg" alt="Faixas-de-vulnerabilidade-social-6" border="0">
 
 
