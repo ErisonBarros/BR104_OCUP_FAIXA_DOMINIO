@@ -1,8 +1,9 @@
 
-
+# Infographic showing land cover changes between the years 2000 and 2010.
 <a href="https://ibb.co/x2VNskm"><img src="https://i.ibb.co/fXmsSg8/Rplot.png" alt="Rplot" border="0"></a>
 
-
+# Gráficos de área é cobertura do solo entre os anos 2000, 2010 e 2018
+## Analyses performed in the penLand package of R
 
 <a href="https://ibb.co/KKTrtJW"><img src="https://i.ibb.co/TW9gQst/Rplot01-caterorias.png" alt="Rplot01-caterorias" border="0"></a>
 
