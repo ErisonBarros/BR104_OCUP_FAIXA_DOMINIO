@@ -1,11 +1,14 @@
 
-Tecnologias
+---
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
+---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5687701.svg)](https://doi.org/10.5281/zenodo.5687701)
+---
 
 # INTERRELATIONSHIPS BETWEEN LAND USE AND LAND COVER (LULC) AND IRREGULAR OCCUPATIONS ON HIGHWAY DOMAIN BANDS: A COMPARATIVE ANALYSIS OF DIFFERENT SPATIAL CONFIGURATIONS
 
