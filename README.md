@@ -42,6 +42,9 @@ This study aims to assess changes in LULC land use along the BR-104 road corrido
 
 <div id='id-section1'/>
 
+# Study Area
+
+
 # CONTENTS
 
 # Análise Exploratória dos Dados
