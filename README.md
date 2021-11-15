@@ -17,7 +17,7 @@ Social
 # INTERRELATIONSHIPS BETWEEN LAND USE AND LAND COVER (LULC) AND IRREGULAR OCCUPATIONS ON HIGHWAY DOMAIN BANDS: A COMPARATIVE ANALYSIS OF DIFFERENT SPATIAL CONFIGURATIONS
 
 
-| <img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0"> 	| Universidade Federal de Pernambuco - UFPE<br>Center for Technology and Geosciences - CTG<br>Graduate Program in Civil Engineering 	|
+|  <img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0" width="100px" height="150px">  	| Universidade Federal de Pernambuco - UFPE<br>Center for Technology and Geosciences - CTG<br>Graduate Program in Civil Engineering 	|
 |---	|---	|
 <img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
 
@@ -31,22 +31,9 @@ Collaborators:
 > Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
 ---
 # Technologies
-**Languages**
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Database**
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**IDE**
-
-![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-
-**Spatial software**
-
-![](https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
-
+| **Languages** 	| **Database** 	| **IDE** 	| **Spatial software** 	|
+|---	|---	|---	|---	|
+| ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 	| ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	| ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 	| ![](https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 	|
 
 ---
 # ABSTRACT
