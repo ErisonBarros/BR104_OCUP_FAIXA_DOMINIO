@@ -55,7 +55,7 @@ This study aims to assess changes in LULC land use along the BR-104 road corrido
 
 # SUMMARY
 
-
+- [Descriptive Statistics - Notebook]()
 - [Análise Exploratória dos Dados](#id-section1)
 
 - [Análise Exploratória sobre a ótica  Espaco Temporal ](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README2.md)
