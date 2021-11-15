@@ -6,9 +6,14 @@
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
----
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5687701.svg)](https://doi.org/10.5281/zenodo.5687701)
----
+
+Social
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 # INTERRELATIONSHIPS BETWEEN LAND USE AND LAND COVER (LULC) AND IRREGULAR OCCUPATIONS ON HIGHWAY DOMAIN BANDS: A COMPARATIVE ANALYSIS OF DIFFERENT SPATIAL CONFIGURATIONS
 
@@ -23,6 +28,27 @@ Collaborators:
 > Maurício de O. Andrade (UFPE) https://orcid.org/0000-0002-7377-7668
 
 > Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
+
+
+
+---
+# Technologies
+**Languages**
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database**
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IDE**
+
+![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
+**Spatial software**
+
+![](https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
+
 
 ---
 # ABSTRACT
@@ -41,6 +67,17 @@ This study aims to assess changes in LULC land use along the BR-104 road corrido
 - [Analise da LULC com a ferramenta Open land R](https://github.com/ErisonBarros/BR104_OCUP_FAIXA_DOMINIO/blob/master/README4.md)
 
 <div id='id-section1'/>
+
+# Dataset
+
+- **Zenodo**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5687701.svg)](https://doi.org/10.5281/zenodo.5687701)
+
+- **Onedrive**
+
+[Dataset](https://1drv.ms/u/s!AjO4oAHV5BZuirQwEeQfoBp1K9p9Rg?e=omqyVS)
+
 
 # Study Area
 
