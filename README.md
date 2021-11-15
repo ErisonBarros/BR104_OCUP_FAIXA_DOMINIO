@@ -14,12 +14,14 @@ Social
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
 # INTERRELATIONSHIPS BETWEEN LAND USE AND LAND COVER (LULC) AND IRREGULAR OCCUPATIONS ON HIGHWAY DOMAIN BANDS: A COMPARATIVE ANALYSIS OF DIFFERENT SPATIAL CONFIGURATIONS
+
 
 ## Universidade Federal de Pernambuco - UFPE
 ### Center for Technology and Geosciences - CTG
 ### Graduate Program in Civil Engineering
+<img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0">
+<img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
 ----
 Collaborators:
 
