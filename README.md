@@ -82,6 +82,8 @@ This study aims to assess changes in LULC land use along the BR-104 road corrido
 Based on geospatial data on irregular occupations on the right of way in 2018 made available by DNIT-PE, Regional Superintendence of the State of Pernambuco, of highway BR-104 – Stretch PE located in Agreste region of the state of Pernambuco, we raised the main questions about the theme and we investigated whether physical proximity can provide positive or negative effects to this population and the nature of social interactions between residents living on the margins of this highway (Figure 03), trying to understand their behavior in relation to irregular occupations of these domains. The spatial cutout used as a laboratory for the analyzes proposed for this research is located in the rural region of Pernambuco, between Quipapá and Taquaritinga do Norte cities, with about 130 km.
 <img src="https://i.ibb.co/Jj5ZR2D/Figura-03.png" alt="Figura-03" border="0">
 
+https://www.google.com/maps/d/u/0/edit?mid=1DKN0P84sqRZl_kq0HPbBlVsWPMW97m5o&usp=sharing
+
 # CONTENTS
 
 # Análise Exploratória dos Dados
